@@ -6,10 +6,12 @@
     "telugu",
     "hindi",
     "tamil",
-    "malayalam"
+    "malayalam",
+    "kannada",
+    "bengali"
   ],
-  "songs": [
-    {
+  "songs": {
+    "0": {
       "slug": "peelings_telugu_",
       "canonical_title": "Peelings (Telugu)",
       "approx_duration_sec": 247,
@@ -43,6 +45,56 @@
           "album": "Pushpa 2 The Rule - (Malayalam)"
         }
       }
+    },
+    "1": {
+      "slug": "peelings",
+      "canonical_title": "Peelings",
+      "approx_duration_sec": 247,
+      "versions": {
+        "hindi": {
+          "title": "Peelings",
+          "id": "ya00FZxH",
+          "duration_sec": 247,
+          "singers": "Devi Sri Prasad, Javed Ali, Madhubanti Bagchi, Raqueeb Alam, Siju Thuravoor",
+          "album": "Pushpa 2 The Rule"
+        },
+        "telugu": {
+          "title": "Peelings (Telugu)",
+          "id": "fxuoxZ18",
+          "duration_sec": 247,
+          "singers": "Devi Sri Prasad, Shankarr Babu Kandukoori, Laxmi Dasa, Chandrabose, Siju Thuravoor",
+          "album": "Pushpa 2 The Rule - (Telugu)"
+        },
+        "malayalam": {
+          "title": "Peelings (Malayalam)",
+          "id": "zbvXqs1N",
+          "duration_sec": 247,
+          "singers": "Pranavam Sasi, Sithara Krishnakumar",
+          "album": "Pushpa 2 The Rule - (Malayalam)"
+        },
+        "tamil": {
+          "title": "Peelings (From \"Pushpa 2 The Rule\")",
+          "id": "3E2O_F3e",
+          "duration_sec": 247,
+          "singers": "Senthil Ganesh, Rajalakshmi, Devi Sri Prasad",
+          "album": "Peelings (From \"Pushpa 2 The Rule\") (Tamil)"
+        },
+        "kannada": {
+          "title": "Peelings (Kannada)",
+          "id": "k5eyes-E",
+          "duration_sec": 247,
+          "singers": "Santhosh, Amala Chebolu",
+          "album": "Pushpa 2 The Rule - (Kannada)"
+        },
+        "bengali": {
+          "title": "Peelings (Bengali)",
+          "id": "llkgInYO",
+          "duration_sec": 247,
+          "singers": "Timir Biswas, Arpita Chakraborty",
+          "album": "Pushpa 2 The Rule - (Bengali)"
+        }
+      }
     }
-  ]
+  },
+  "updated_at": "2026-09-05T13:10:39.154Z"
 }
