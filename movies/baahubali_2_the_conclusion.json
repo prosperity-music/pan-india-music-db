@@ -47,7 +47,7 @@
     {
       "slug": "jiyo_re_bahubali",
       "canonical_title": "Jiyo Re Bahubali",
-      "approx_duration_sec": 209,
+      "approx_duration_sec": 212,
       "versions": {
         "hindi": {
           "title": "Jiyo Re Bahubali",
@@ -75,11 +75,11 @@
         },
         "malayalam": {
           "title": "Bali Bali Baahubali",
-          "id": "sRJnU_1S",
-          "duration_sec": 203,
-          "singers": "Yazin Nizar, Vijay Yesudas, Swetha Mohan",
-          "album": "Bahubali 2 - The Conclusion",
-          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7JGwF0zhX9oItt9901OvB5/video/1770556fdff54e3182ccbe8de5b5f7b2.cnvs.mp4"
+          "id": "9zJuYWV2",
+          "duration_sec": 208,
+          "singers": "Yazin, Vijay Yesudas, Shweta Mohan",
+          "album": "Baahubali 2 The Conclusion (Malayalam)",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/59X2UmUct9nybAHTxN3NVK/video/7a17721365c541b3b50bb185986ea12a.cnvs.mp4"
         }
       }
     },
@@ -123,5 +123,5 @@
       }
     }
   ],
-  "updated_at": "2026-09-05T14:58:31.990Z"
+  "updated_at": "2026-09-05T15:05:32.065Z"
 }
