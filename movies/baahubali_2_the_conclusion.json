@@ -1,15 +1,15 @@
 {
   "movie": "Baahubali 2 - The Conclusion",
   "movie_slug": "baahubali_2_the_conclusion",
-  "year": 2017,
+  "year": 2026,
   "languages": [
     "hindi",
     "malayalam",
     "tamil",
     "telugu"
   ],
-  "songs": [
-    {
+  "songs": {
+    "0": {
       "slug": "shivam",
       "canonical_title": "Shivam",
       "approx_duration_sec": 176,
@@ -43,6 +43,42 @@
           "album": "Baahubali 2 - The Conclusion (Telugu)"
         }
       }
+    },
+    "1": {
+      "slug": "jiyo_re_bahubali",
+      "canonical_title": "Jiyo Re Bahubali",
+      "approx_duration_sec": 209,
+      "versions": {
+        "hindi": {
+          "title": "Jiyo Re Bahubali",
+          "id": "Epg9BRBc",
+          "duration_sec": 209,
+          "singers": "Manoj Muntashir, Daler Mehndi, Sanjeev Chimmalgi, Ramya Behara",
+          "album": "Baahubali 2 - The Conclusion"
+        },
+        "telugu": {
+          "title": "Saahore Baahubali",
+          "id": "esHAK2_O",
+          "duration_sec": 212,
+          "singers": "Daler Mehndi, M.M. Keeravaani, Mounima Chandrabhatla",
+          "album": "Baahubali 2 - The Conclusion (Telugu)"
+        },
+        "tamil": {
+          "title": "Bale Bale Bale",
+          "id": "bGjaslVh",
+          "duration_sec": 209,
+          "singers": "Daler Mehndi, Maragadamani, Mounima Chandrabhatla",
+          "album": "Baahubali 2 - The Conclusion ( Tamil )"
+        },
+        "malayalam": {
+          "title": "Bali Bali Baahubali",
+          "id": "sRJnU_1S",
+          "duration_sec": 203,
+          "singers": "Yazin Nizar, Vijay Yesudas, Swetha Mohan",
+          "album": "Bahubali 2 - The Conclusion"
+        }
+      }
     }
-  ]
+  },
+  "updated_at": "2026-09-05T13:20:07.022Z"
 }
