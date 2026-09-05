@@ -8,7 +8,8 @@
     "telugu",
     "hindi",
     "kannada",
-    "malayalam"
+    "malayalam",
+    "english"
   ],
   "songs": [
     {
@@ -264,28 +265,47 @@
     {
       "slug": "coolie_feels",
       "canonical_title": "Coolie Feels",
-      "approx_duration_sec": 130,
+      "approx_duration_sec": 129,
       "versions": {
         "tamil": {
-          "title": "Coolie Feels",
-          "id": "4AbyL9LD",
-          "duration_sec": 130,
-          "singers": "",
-          "album": "Coolie (Original Background Score)"
+          "title": "Coolie Disco",
+          "id": "m6pA6cJ6",
+          "duration_sec": 129,
+          "singers": "Anirudh Ravichander",
+          "album": "Coolie (Original Motion Picture Soundtrack)",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/c52a69919c044796a5aa75b56d770337.cnvs.mp4"
         },
         "telugu": {
           "title": "Coolie Disco",
           "id": "QM4cQlL6",
           "duration_sec": 129,
-          "singers": "",
-          "album": "Coolie (Original Motion Picture Soundtrack)"
+          "singers": "Anirudh Ravichander",
+          "album": "Coolie (Original Motion Picture Soundtrack)",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/c52a69919c044796a5aa75b56d770337.cnvs.mp4"
         },
         "kannada": {
           "title": "Coolie Disco",
           "id": "GneunZlX",
           "duration_sec": 129,
-          "singers": "",
-          "album": "Coolie (Original Motion Picture Soundtrack)"
+          "singers": "Anirudh Ravichander",
+          "album": "Coolie (Original Motion Picture Soundtrack)",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/c52a69919c044796a5aa75b56d770337.cnvs.mp4"
+        },
+        "hindi": {
+          "title": "Coolie Disco",
+          "id": "39wx_xIi",
+          "duration_sec": 129,
+          "singers": "Anirudh Ravichander",
+          "album": "Coolie The Powerhouse (Original Motion Picture Soundtrack)",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/c52a69919c044796a5aa75b56d770337.cnvs.mp4"
+        },
+        "malayalam": {
+          "title": "Coolie Disco",
+          "id": "tNs4TmXA",
+          "duration_sec": 129,
+          "singers": "Anirudh Ravichander",
+          "album": "Coolie (Original Motion Picture Soundtrack)",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/c52a69919c044796a5aa75b56d770337.cnvs.mp4"
         }
       }
     },
@@ -535,5 +555,5 @@
       }
     }
   ],
-  "updated_at": "2026-09-05T17:35:12.326Z"
+  "updated_at": "2026-09-05T17:39:47.017Z"
 }
