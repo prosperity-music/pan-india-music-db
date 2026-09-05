@@ -1,15 +1,15 @@
 {
   "movie": "Baahubali 2 - The Conclusion",
   "movie_slug": "baahubali_2_the_conclusion",
-  "year": 2026,
+  "year": 2017,
   "languages": [
     "hindi",
     "malayalam",
     "tamil",
     "telugu"
   ],
-  "songs": {
-    "0": {
+  "songs": [
+    {
       "slug": "shivam",
       "canonical_title": "Shivam",
       "approx_duration_sec": 176,
@@ -44,7 +44,7 @@
         }
       }
     },
-    "1": {
+    {
       "slug": "jiyo_re_bahubali",
       "canonical_title": "Jiyo Re Bahubali",
       "approx_duration_sec": 209,
@@ -79,6 +79,6 @@
         }
       }
     }
-  },
-  "updated_at": "2026-09-05T13:20:07.022Z"
+  ],
+  "updated_at": "2026-09-05T13:37:22.986Z"
 }
