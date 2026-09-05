@@ -21,11 +21,11 @@ This repository provides pre-verified, high-precision mapping so any music strea
 You can directly fetch any movie mapping via **jsDelivr CDN**:
 
 ```http
-GET https://cdn.jsdelivr.net/gh/<owner>/pan-india-music-db@main/movies/{movie_slug}.json
+GET https://cdn.jsdelivr.net/gh/prosperity-music/pan-india-music-db@main/movies/{movie_slug}.json
 ```
 
 Example for RRR:
-`https://cdn.jsdelivr.net/gh/<owner>/pan-india-music-db@main/movies/rrr.json`
+`https://cdn.jsdelivr.net/gh/prosperity-music/pan-india-music-db@main/movies/rrr.json`
 
 ---
 
