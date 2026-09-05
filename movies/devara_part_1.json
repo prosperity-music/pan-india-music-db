@@ -1,0 +1,56 @@
+{
+  "movie": "Devara Part 1",
+  "movie_slug": "devara_part_1",
+  "year": 2026,
+  "languages": [
+    "telugu",
+    "tamil",
+    "kannada",
+    "hindi",
+    "malayalam"
+  ],
+  "songs": [
+    {
+      "slug": "fear_song_telugu",
+      "canonical_title": "Fear Song - Telugu",
+      "approx_duration_sec": 195,
+      "versions": {
+        "telugu": {
+          "title": "Fear Song - Telugu",
+          "id": "m0Yt29rq",
+          "duration_sec": 195,
+          "singers": "Anirudh Ravichander, Ramajogayya Sastry",
+          "album": "Devara Part 1 - Telugu"
+        },
+        "tamil": {
+          "title": "Fear Song - Tamil",
+          "id": "8WoiP_FZ",
+          "duration_sec": 195,
+          "singers": "Anirudh Ravichander, Vishnu Edavan",
+          "album": "Devara Part 1 - Tamil"
+        },
+        "kannada": {
+          "title": "Fear Song - Kannada",
+          "id": "fBdZ84t-",
+          "duration_sec": 195,
+          "singers": "Anirudh Ravichander, Santhosh, Varadaraj Chikkaballapura",
+          "album": "Devara Part 1 - Kannada"
+        },
+        "hindi": {
+          "title": "Fear Song - Hindi",
+          "id": "WZgXGWiz",
+          "duration_sec": 195,
+          "singers": "Anirudh Ravichander, Manoj Muntashir",
+          "album": "Devara Part 1 - Hindi"
+        },
+        "malayalam": {
+          "title": "Fear Song  - Malayalam",
+          "id": "f1rWa8Kl",
+          "duration_sec": 195,
+          "singers": "Anirudh Ravichander, Santhosh, Mankombu Gopalakrishnan",
+          "album": "Devara Part 1 - Malayalam"
+        }
+      }
+    }
+  ]
+}
