@@ -1,0 +1,153 @@
+{
+  "movie": "Vikram",
+  "movie_slug": "vikram",
+  "year": 2022,
+  "music_director": "Anirudh Ravichander",
+  "languages": [
+    "tamil",
+    "telugu",
+    "hindi"
+  ],
+  "songs": [
+    {
+      "slug": "pathala_pathala",
+      "canonical_title": "Pathala Pathala",
+      "approx_duration_sec": 211,
+      "versions": {
+        "tamil": {
+          "title": "Pathala Pathala",
+          "id": "QZ0saCaM",
+          "duration_sec": 211,
+          "singers": "Kamal Haasan, Anirudh Ravichander",
+          "album": "Vikram"
+        },
+        "telugu": {
+          "title": "Mathuga Mathuga",
+          "id": "S_ZKBhk7",
+          "duration_sec": 211,
+          "singers": "Kamal Haasan",
+          "album": "Vikram Hitlist"
+        },
+        "hindi": {
+          "title": "Badle Badle",
+          "id": "mrEK3r9f",
+          "duration_sec": 211,
+          "singers": "Kamal Haasan, Raftaar",
+          "album": "Vikram Hitlist (Hindi)"
+        }
+      }
+    },
+    {
+      "slug": "vikram_title_track",
+      "canonical_title": "Vikram Title Track",
+      "approx_duration_sec": 218,
+      "versions": {
+        "tamil": {
+          "title": "Vikram (Title Track)",
+          "id": "6UacoKQ4",
+          "duration_sec": 227,
+          "singers": "Anirudh Ravichander",
+          "album": "Vikram"
+        },
+        "telugu": {
+          "title": "Vikram Title Track (Telugu)",
+          "id": "2tSfxpxj",
+          "duration_sec": 218,
+          "singers": "Prudhvi Chandra",
+          "album": "Vikram Hitlist"
+        },
+        "hindi": {
+          "title": "Vikram Title Track (Hindi)",
+          "id": "wZ0EQ7UV",
+          "duration_sec": 218,
+          "singers": "Anirudh Ravichander",
+          "album": "Vikram Hitlist (Hindi)"
+        }
+      }
+    },
+    {
+      "slug": "porkanda_singam",
+      "canonical_title": "Porkanda Singam",
+      "approx_duration_sec": 198,
+      "versions": {
+        "tamil": {
+          "title": "Porkanda Singam",
+          "id": "3GvVRRSu",
+          "duration_sec": 198,
+          "singers": "Ravi G",
+          "album": "Vikram"
+        },
+        "telugu": {
+          "title": "Porata Simham",
+          "id": "IJnqL2hE",
+          "duration_sec": 198,
+          "singers": "Ravi G",
+          "album": "Vikram Hitlist"
+        },
+        "hindi": {
+          "title": "Ek Sher Ho Tum",
+          "id": "j1m7krNs",
+          "duration_sec": 198,
+          "singers": "Jubin Nautiyal",
+          "album": "Vikram Hitlist (Hindi)"
+        }
+      }
+    },
+    {
+      "slug": "wasted",
+      "canonical_title": "Wasted",
+      "approx_duration_sec": 182,
+      "versions": {
+        "tamil": {
+          "title": "Wasted",
+          "id": "7WYqS-F-",
+          "duration_sec": 182,
+          "singers": "Anirudh Ravichander",
+          "album": "Vikram"
+        },
+        "telugu": {
+          "title": "Wasted",
+          "id": "pju3so5d",
+          "duration_sec": 182,
+          "singers": "Anirudh Ravichander",
+          "album": "Vikram Hitlist"
+        },
+        "hindi": {
+          "title": "Wasted",
+          "id": "53W5_jM-",
+          "duration_sec": 182,
+          "singers": "Anirudh Ravichander",
+          "album": "Vikram Hitlist (Hindi)"
+        }
+      }
+    },
+    {
+      "slug": "once_upon_a_time",
+      "canonical_title": "Once Upon a Time",
+      "approx_duration_sec": 143,
+      "versions": {
+        "tamil": {
+          "title": "Once Upon a Time",
+          "id": "HjIFboBj",
+          "duration_sec": 143,
+          "singers": "Anirudh Ravichander",
+          "album": "Vikram"
+        },
+        "telugu": {
+          "title": "Once Upon a Time",
+          "id": "064wPVEu",
+          "duration_sec": 143,
+          "singers": "Anirudh Ravichander",
+          "album": "Vikram Hitlist"
+        },
+        "hindi": {
+          "title": "Once Upon A Time",
+          "id": "94aXyl7V",
+          "duration_sec": 143,
+          "singers": "Anirudh Ravichander",
+          "album": "Vikram Hitlist (Hindi)"
+        }
+      }
+    }
+  ]
+}
