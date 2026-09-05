@@ -1,7 +1,7 @@
 {
   "movie": "Baahubali 2 - The Conclusion",
   "movie_slug": "baahubali_2_the_conclusion",
-  "year": 2017,
+  "year": 2026,
   "languages": [
     "hindi",
     "malayalam",
@@ -78,7 +78,46 @@
           "album": "Bahubali 2 - The Conclusion"
         }
       }
+    },
+    {
+      "slug": "saahore_baahubali",
+      "canonical_title": "Saahore Baahubali",
+      "approx_duration_sec": 212,
+      "versions": {
+        "telugu": {
+          "title": "Saahore Baahubali",
+          "id": "esHAK2_O",
+          "duration_sec": 212,
+          "singers": "Daler Mehndi, M.M. Keeravaani, Mounima Chandrabhatla",
+          "album": "Baahubali 2 - The Conclusion (Telugu)",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/59X2UmUct9nybAHTxN3NVK/video/7a17721365c541b3b50bb185986ea12a.cnvs.mp4"
+        },
+        "malayalam": {
+          "title": "Bali Bali Baahubali",
+          "id": "9zJuYWV2",
+          "duration_sec": 208,
+          "singers": "Yazin, Vijay Yesudas, Shweta Mohan",
+          "album": "Baahubali 2 The Conclusion (Malayalam)",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/59X2UmUct9nybAHTxN3NVK/video/7a17721365c541b3b50bb185986ea12a.cnvs.mp4"
+        },
+        "hindi": {
+          "title": "Jiyo Re Bahubali",
+          "id": "Epg9BRBc",
+          "duration_sec": 209,
+          "singers": "Manoj Muntashir, Daler Mehndi, Sanjeev Chimmalgi, Ramya Behara",
+          "album": "Baahubali 2 - The Conclusion",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7JGwF0zhX9oItt9901OvB5/video/1770556fdff54e3182ccbe8de5b5f7b2.cnvs.mp4"
+        },
+        "tamil": {
+          "title": "Bale Bale Bale",
+          "id": "bGjaslVh",
+          "duration_sec": 209,
+          "singers": "Daler Mehndi, Maragadamani, Mounima Chandrabhatla",
+          "album": "Baahubali 2 - The Conclusion ( Tamil )",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/59X2UmUct9nybAHTxN3NVK/video/215cc61cec8c451489bbff52b16d9ea2.cnvs.mp4"
+        }
+      }
     }
   ],
-  "updated_at": "2026-09-05T13:37:22.986Z"
+  "updated_at": "2026-09-05T14:35:33.987Z"
 }
