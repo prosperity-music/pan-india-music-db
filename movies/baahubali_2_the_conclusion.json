@@ -12,7 +12,7 @@
     {
       "slug": "shivam",
       "canonical_title": "Shivam",
-      "approx_duration_sec": 209,
+      "approx_duration_sec": 176,
       "versions": {
         "hindi": {
           "title": "Shivam",
@@ -20,7 +20,7 @@
           "duration_sec": 176,
           "singers": "Manoj Muntashir, Kaala Bhairava",
           "album": "Baahubali 2 - The Conclusion",
-          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7JGwF0zhX9oItt9901OvB5/video/1770556fdff54e3182ccbe8de5b5f7b2.cnvs.mp4"
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/59X2UmUct9nybAHTxN3NVK/video/f01d4356e6074063b31214d69aa5c55e.cnvs.mp4"
         },
         "malayalam": {
           "title": "Oru Jeevan Bahuthyagam",
@@ -28,7 +28,7 @@
           "duration_sec": 175,
           "singers": "M.M. Keeravani",
           "album": "Bahubali 2 - The Conclusion",
-          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7JGwF0zhX9oItt9901OvB5/video/1770556fdff54e3182ccbe8de5b5f7b2.cnvs.mp4"
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/59X2UmUct9nybAHTxN3NVK/video/f01d4356e6074063b31214d69aa5c55e.cnvs.mp4"
         },
         "tamil": {
           "title": "Oru Yaagam",
@@ -36,7 +36,7 @@
           "duration_sec": 176,
           "singers": "Kaala Bhairava",
           "album": "Baahubali 2 - The Conclusion ( Tamil )",
-          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7JGwF0zhX9oItt9901OvB5/video/1770556fdff54e3182ccbe8de5b5f7b2.cnvs.mp4"
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/59X2UmUct9nybAHTxN3NVK/video/e479babcf262468cb5652b98ae7bb804.cnvs.mp4"
         },
         "telugu": {
           "title": "Oka Praanam",
@@ -44,7 +44,7 @@
           "duration_sec": 176,
           "singers": "Kaala Bhairava",
           "album": "Baahubali 2 - The Conclusion (Telugu)",
-          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7JGwF0zhX9oItt9901OvB5/video/1770556fdff54e3182ccbe8de5b5f7b2.cnvs.mp4"
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/59X2UmUct9nybAHTxN3NVK/video/f01d4356e6074063b31214d69aa5c55e.cnvs.mp4"
         }
       }
     },
@@ -127,5 +127,5 @@
       }
     }
   ],
-  "updated_at": "2026-09-05T15:47:58.562Z"
+  "updated_at": "2026-09-05T15:56:05.433Z"
 }
