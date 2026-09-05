@@ -7,7 +7,8 @@
     "tamil",
     "telugu",
     "hindi",
-    "kannada"
+    "kannada",
+    "malayalam"
   ],
   "songs": [
     {
@@ -61,15 +62,17 @@
           "title": "I Am The Danger",
           "id": "qlRAIVDv",
           "duration_sec": 214,
-          "singers": "Anirudh Ravichander, Siddharth Basrur",
-          "album": "Coolie (Original Motion Picture Soundtrack)"
+          "singers": "Anirudh Ravichander, Siddharth Basrur, Heisenberg",
+          "album": "Coolie (Original Motion Picture Soundtrack)",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/f0230e4489934fcc9002b81f83f9ce99.cnvs.mp4"
         },
         "kannada": {
           "title": "I Am The Danger",
           "id": "o2lEUxi8",
           "duration_sec": 214,
-          "singers": "Anirudh Ravichander, Siddharth Basrur",
-          "album": "Coolie (Original Motion Picture Soundtrack)"
+          "singers": "Anirudh Ravichander, Siddharth Basrur, Heisenberg",
+          "album": "Coolie (Original Motion Picture Soundtrack)",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/f0230e4489934fcc9002b81f83f9ce99.cnvs.mp4"
         },
         "english": {
           "title": "I Am The Danger",
@@ -77,6 +80,30 @@
           "duration_sec": 214,
           "singers": "Anirudh Ravichander, Siddharth Basrur",
           "album": "Coolie (Original Motion Picture Soundtrack)"
+        },
+        "hindi": {
+          "title": "I Am The Danger",
+          "id": "vDC7_Csp",
+          "duration_sec": 214,
+          "singers": "Anirudh Ravichander, Siddharth Basrur, Heisenberg",
+          "album": "Coolie The Powerhouse (Original Motion Picture Soundtrack)",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/f0230e4489934fcc9002b81f83f9ce99.cnvs.mp4"
+        },
+        "malayalam": {
+          "title": "I Am The Danger",
+          "id": "CKsbY4BP",
+          "duration_sec": 214,
+          "singers": "Siddharth Basrur, Anirudh Ravichander, Heisenberg",
+          "album": "Coolie (Original Motion Picture Soundtrack)",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/f0230e4489934fcc9002b81f83f9ce99.cnvs.mp4"
+        },
+        "telugu": {
+          "title": "I Am The Danger",
+          "id": "uRXCSFIo",
+          "duration_sec": 214,
+          "singers": "Siddharth Basrur, Anirudh Ravichander, Heisenberg",
+          "album": "Coolie (Original Motion Picture Soundtrack)",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/f0230e4489934fcc9002b81f83f9ce99.cnvs.mp4"
         }
       }
     },
@@ -507,5 +534,6 @@
         }
       }
     }
-  ]
+  ],
+  "updated_at": "2026-09-05T17:22:25.363Z"
 }
