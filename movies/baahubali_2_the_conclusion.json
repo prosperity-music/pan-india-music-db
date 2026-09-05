@@ -1,0 +1,48 @@
+{
+  "movie": "Baahubali 2 - The Conclusion",
+  "movie_slug": "baahubali_2_the_conclusion",
+  "year": 2017,
+  "languages": [
+    "hindi",
+    "malayalam",
+    "tamil",
+    "telugu"
+  ],
+  "songs": [
+    {
+      "slug": "shivam",
+      "canonical_title": "Shivam",
+      "approx_duration_sec": 176,
+      "versions": {
+        "hindi": {
+          "title": "Shivam",
+          "id": "oO1SLvuX",
+          "duration_sec": 176,
+          "singers": "Manoj Muntashir, Kaala Bhairava",
+          "album": "Baahubali 2 - The Conclusion"
+        },
+        "malayalam": {
+          "title": "Oru Jeevan Bahuthyagam",
+          "id": "X-m134Ip",
+          "duration_sec": 177,
+          "singers": "M.M.Keeravani",
+          "album": "Baahubali 2 The Conclusion (Malayalam)"
+        },
+        "tamil": {
+          "title": "Oru Yaagam",
+          "id": "3b8TWiLt",
+          "duration_sec": 176,
+          "singers": "Kaala Bhairava",
+          "album": "Baahubali 2 - The Conclusion ( Tamil )"
+        },
+        "telugu": {
+          "title": "Oka Praanam",
+          "id": "rcxVXRUY",
+          "duration_sec": 176,
+          "singers": "Kaala Bhairava",
+          "album": "Baahubali 2 - The Conclusion (Telugu)"
+        }
+      }
+    }
+  ]
+}
