@@ -53,6 +53,34 @@
       }
     },
     {
+      "slug": "i_am_the_danger",
+      "canonical_title": "I Am The Danger",
+      "approx_duration_sec": 214,
+      "versions": {
+        "tamil": {
+          "title": "I Am The Danger",
+          "id": "qlRAIVDv",
+          "duration_sec": 214,
+          "singers": "Anirudh Ravichander, Siddharth Basrur",
+          "album": "Coolie (Original Motion Picture Soundtrack)"
+        },
+        "kannada": {
+          "title": "I Am The Danger",
+          "id": "o2lEUxi8",
+          "duration_sec": 214,
+          "singers": "Anirudh Ravichander, Siddharth Basrur",
+          "album": "Coolie (Original Motion Picture Soundtrack)"
+        },
+        "english": {
+          "title": "I Am The Danger",
+          "id": "CKsbY4BP",
+          "duration_sec": 214,
+          "singers": "Anirudh Ravichander, Siddharth Basrur",
+          "album": "Coolie (Original Motion Picture Soundtrack)"
+        }
+      }
+    },
+    {
       "slug": "harbour_gang",
       "canonical_title": "Harbour Gang",
       "approx_duration_sec": 107,
