@@ -1,0 +1,45 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "PanIndiaMovieSongMapping",
+  "description": "Schema for Pan-India dubbed movie soundtrack mappings across official Indian languages",
+  "type": "object",
+  "required": ["movie", "music_director", "languages", "songs"],
+  "properties": {
+    "movie": { "type": "string", "description": "Canonical movie name (e.g. RRR)" },
+    "movie_slug": { "type": "string", "description": "Unique URL-friendly slug (e.g. rrr)" },
+    "year": { "type": "integer", "description": "Release year" },
+    "music_director": { "type": "string", "description": "Music Director / Composer" },
+    "languages": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "List of available official languages (telugu, hindi, tamil, kannada, malayalam, etc.)"
+    },
+    "songs": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["slug", "canonical_title", "versions"],
+        "properties": {
+          "slug": { "type": "string", "description": "Song slug (e.g. naatu_naatu)" },
+          "canonical_title": { "type": "string", "description": "Original primary title" },
+          "approx_duration_sec": { "type": "integer" },
+          "versions": {
+            "type": "object",
+            "description": "Language keyed map of song metadata",
+            "additionalProperties": {
+              "type": "object",
+              "required": ["title", "id"],
+              "properties": {
+                "title": { "type": "string" },
+                "id": { "type": "string", "description": "JioSaavn song ID" },
+                "duration_sec": { "type": "integer" },
+                "singers": { "type": "string" },
+                "album": { "type": "string" }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

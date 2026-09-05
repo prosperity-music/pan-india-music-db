@@ -1,0 +1,1443 @@
+{
+  "movie": "Kalki 2898 AD",
+  "movie_slug": "kalki_2898_ad",
+  "year": 2024,
+  "music_director": "Santhosh Narayanan",
+  "languages": [
+    "telugu",
+    "hindi",
+    "tamil",
+    "kannada",
+    "malayalam"
+  ],
+  "songs": [
+    {
+      "slug": "bhairava_anthem",
+      "canonical_title": "Bhairava Anthem",
+      "approx_duration_sec": 163,
+      "versions": {
+        "telugu": {
+          "title": "Bhairava Anthem",
+          "id": "zO7udnlh",
+          "duration_sec": 163,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Telugu)"
+        },
+        "hindi": {
+          "title": "Bhairava Anthem",
+          "id": "nomKd375",
+          "duration_sec": 161,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Hindi)"
+        },
+        "tamil": {
+          "title": "Bhairava Anthem",
+          "id": "nDtDD8a2",
+          "duration_sec": 161,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Tamil)"
+        },
+        "kannada": {
+          "title": "Bhairava Anthem",
+          "id": "DAQqDZ15",
+          "duration_sec": 149,
+          "singers": "",
+          "album": "Kalki 2898 AD (Kannada)"
+        },
+        "malayalam": {
+          "title": "Bhairava Anthem",
+          "id": "lpd2Zp33",
+          "duration_sec": 149,
+          "singers": "",
+          "album": "Kalki 2898 AD (Malayalam)"
+        }
+      }
+    },
+    {
+      "slug": "theme_of_kalki",
+      "canonical_title": "Theme Of Kalki",
+      "approx_duration_sec": 189,
+      "versions": {
+        "telugu": {
+          "title": "Theme Of Kalki",
+          "id": "luHVr_tA",
+          "duration_sec": 189,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Telugu)"
+        },
+        "hindi": {
+          "title": "Theme Of Kalki",
+          "id": "89lr7ENY",
+          "duration_sec": 189,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Hindi)"
+        },
+        "tamil": {
+          "title": "Theme Of Kalki",
+          "id": "UOgolNA6",
+          "duration_sec": 189,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Tamil)"
+        },
+        "kannada": {
+          "title": "Theme Of Kalki",
+          "id": "uICu6Fh0",
+          "duration_sec": 190,
+          "singers": "",
+          "album": "Kalki 2898 AD (Kannada)"
+        },
+        "malayalam": {
+          "title": "Theme Of Kalki",
+          "id": "7cy4oGtH",
+          "duration_sec": 190,
+          "singers": "",
+          "album": "Kalki 2898 AD (Malayalam)"
+        }
+      }
+    },
+    {
+      "slug": "ta_takkara_complex_song",
+      "canonical_title": "Ta Takkara (Complex Song)",
+      "approx_duration_sec": 207,
+      "versions": {
+        "telugu": {
+          "title": "Ta Takkara (Complex Song)",
+          "id": "HfNOoigd",
+          "duration_sec": 207,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Telugu)"
+        },
+        "hindi": {
+          "title": "Ta Takkara (Complex Song)",
+          "id": "GagfyGb9",
+          "duration_sec": 207,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Hindi)"
+        },
+        "tamil": {
+          "title": "Ta Takkara (Complex Song)",
+          "id": "BNTdBvwL",
+          "duration_sec": 207,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Tamil)"
+        },
+        "kannada": {
+          "title": "Ta Takkara (Complex Song)",
+          "id": "z1tCDRHL",
+          "duration_sec": 207,
+          "singers": "",
+          "album": "Kalki 2898 AD (Kannada)"
+        },
+        "malayalam": {
+          "title": "Ta Takkara (Complex Song)",
+          "id": "UtDwQvXL",
+          "duration_sec": 207,
+          "singers": "",
+          "album": "Kalki 2898 AD (Malayalam)"
+        }
+      }
+    },
+    {
+      "slug": "hope_of_shambala",
+      "canonical_title": "Hope of Shambala",
+      "approx_duration_sec": 102,
+      "versions": {
+        "telugu": {
+          "title": "Hope of Shambala",
+          "id": "GbleQtv8",
+          "duration_sec": 102,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Telugu)"
+        },
+        "hindi": {
+          "title": "Hope of Shambala",
+          "id": "64CYzE_X",
+          "duration_sec": 102,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Hindi)"
+        },
+        "tamil": {
+          "title": "Hope of Shambala",
+          "id": "BP5nFLfC",
+          "duration_sec": 105,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Tamil)"
+        },
+        "kannada": {
+          "title": "Hope of Shambala",
+          "id": "IHn0W_Pc",
+          "duration_sec": 102,
+          "singers": "",
+          "album": "Kalki 2898 AD (Kannada)"
+        },
+        "malayalam": {
+          "title": "Hope of Shambala",
+          "id": "tdu5nEV5",
+          "duration_sec": 102,
+          "singers": "",
+          "album": "Kalki 2898 AD (Malayalam)"
+        }
+      }
+    },
+    {
+      "slug": "keshava_madhava_telugu",
+      "canonical_title": "Keshava Madhava (Telugu)",
+      "approx_duration_sec": 90,
+      "versions": {
+        "telugu": {
+          "title": "Keshava Madhava (Telugu)",
+          "id": "KpGjMw9D",
+          "duration_sec": 90,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Telugu)"
+        },
+        "hindi": {
+          "title": "Keshava Madhava",
+          "id": "4KNPfE0G",
+          "duration_sec": 90,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Hindi)"
+        },
+        "tamil": {
+          "title": "Keshava Madhava (Tamil)",
+          "id": "tQXiR8dj",
+          "duration_sec": 88,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Tamil)"
+        },
+        "kannada": {
+          "title": "Puttinavaniki",
+          "id": "qz-GWbrr",
+          "duration_sec": 92,
+          "singers": "",
+          "album": "Kalki 2898 AD (Kannada)"
+        },
+        "malayalam": {
+          "title": "Puttinavaniki",
+          "id": "cKO7vEUR",
+          "duration_sec": 92,
+          "singers": "",
+          "album": "Kalki 2898 AD (Malayalam)"
+        }
+      }
+    },
+    {
+      "slug": "the_great_war",
+      "canonical_title": "The Great War",
+      "approx_duration_sec": 68,
+      "versions": {
+        "telugu": {
+          "title": "The Great War",
+          "id": "lni5lgfI",
+          "duration_sec": 68,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Telugu)"
+        },
+        "hindi": {
+          "title": "The Great War",
+          "id": "USxr2oVw",
+          "duration_sec": 68,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Hindi)"
+        },
+        "tamil": {
+          "title": "The Great War",
+          "id": "KDDNGNLR",
+          "duration_sec": 68,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Tamil)"
+        },
+        "kannada": {
+          "title": "The Great War",
+          "id": "1PceTPbW",
+          "duration_sec": 68,
+          "singers": "",
+          "album": "Kalki 2898 AD (Kannada)"
+        },
+        "malayalam": {
+          "title": "The Great War",
+          "id": "71_VCa9n",
+          "duration_sec": 68,
+          "singers": "",
+          "album": "Kalki 2898 AD (Malayalam)"
+        }
+      }
+    },
+    {
+      "slug": "ashwa_curse",
+      "canonical_title": "Ashwa Curse",
+      "approx_duration_sec": 54,
+      "versions": {
+        "telugu": {
+          "title": "Ashwa Curse",
+          "id": "LSL0mfYh",
+          "duration_sec": 54,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Telugu)"
+        },
+        "hindi": {
+          "title": "Ashwa Curse",
+          "id": "dGrfb8Km",
+          "duration_sec": 54,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Hindi)"
+        },
+        "tamil": {
+          "title": "Ashwa Curse",
+          "id": "yaSBSX56",
+          "duration_sec": 54,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Tamil)"
+        },
+        "kannada": {
+          "title": "Ashwa Curse",
+          "id": "InoL8T1u",
+          "duration_sec": 54,
+          "singers": "",
+          "album": "Kalki 2898 AD (Kannada)"
+        },
+        "malayalam": {
+          "title": "Ashwa Curse",
+          "id": "Gx0julF2",
+          "duration_sec": 54,
+          "singers": "",
+          "album": "Kalki 2898 AD (Malayalam)"
+        }
+      }
+    },
+    {
+      "slug": "pursuit_of_life",
+      "canonical_title": "Pursuit of Life",
+      "approx_duration_sec": 58,
+      "versions": {
+        "telugu": {
+          "title": "Pursuit of Life",
+          "id": "d1lj6XvB",
+          "duration_sec": 58,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Telugu)"
+        },
+        "hindi": {
+          "title": "Pursuit of Life",
+          "id": "9UybwV7i",
+          "duration_sec": 58,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Hindi)"
+        },
+        "tamil": {
+          "title": "Pursuit of Life",
+          "id": "g9Q7Pr6c",
+          "duration_sec": 58,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Tamil)"
+        },
+        "kannada": {
+          "title": "Pursuit of Life",
+          "id": "yQV9uuuX",
+          "duration_sec": 58,
+          "singers": "",
+          "album": "Kalki 2898 AD (Kannada)"
+        },
+        "malayalam": {
+          "title": "Pursuit of Life",
+          "id": "DbFa1bJq",
+          "duration_sec": 58,
+          "singers": "",
+          "album": "Kalki 2898 AD (Malayalam)"
+        }
+      }
+    },
+    {
+      "slug": "a_world_of_treasures",
+      "canonical_title": "A World Of Treasures",
+      "approx_duration_sec": 158,
+      "versions": {
+        "telugu": {
+          "title": "A World Of Treasures",
+          "id": "jVyB5NTU",
+          "duration_sec": 158,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Telugu)"
+        },
+        "hindi": {
+          "title": "A World Of Treasures",
+          "id": "iuGkhg3W",
+          "duration_sec": 158,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Hindi)"
+        },
+        "tamil": {
+          "title": "A World Of Treasures",
+          "id": "EhGVRIuU",
+          "duration_sec": 158,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Tamil)"
+        },
+        "kannada": {
+          "title": "A World Of Treasures",
+          "id": "zPa9BxZ9",
+          "duration_sec": 158,
+          "singers": "",
+          "album": "Kalki 2898 AD (Kannada)"
+        },
+        "malayalam": {
+          "title": "A World Of Treasures",
+          "id": "SiM6CYPM",
+          "duration_sec": 158,
+          "singers": "",
+          "album": "Kalki 2898 AD (Malayalam)"
+        }
+      }
+    },
+    {
+      "slug": "manas",
+      "canonical_title": "Manas",
+      "approx_duration_sec": 70,
+      "versions": {
+        "telugu": {
+          "title": "Manas",
+          "id": "flGu3NOZ",
+          "duration_sec": 70,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Telugu)"
+        },
+        "hindi": {
+          "title": "Manas",
+          "id": "-vEI8VOJ",
+          "duration_sec": 70,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Hindi)"
+        },
+        "tamil": {
+          "title": "Manas",
+          "id": "hIoO8AoF",
+          "duration_sec": 70,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Tamil)"
+        },
+        "kannada": {
+          "title": "Manas",
+          "id": "wdP4wq__",
+          "duration_sec": 70,
+          "singers": "",
+          "album": "Kalki 2898 AD (Kannada)"
+        },
+        "malayalam": {
+          "title": "Manas",
+          "id": "Z65L7ueb",
+          "duration_sec": 70,
+          "singers": "",
+          "album": "Kalki 2898 AD (Malayalam)"
+        }
+      }
+    },
+    {
+      "slug": "complex_tour",
+      "canonical_title": "Complex Tour",
+      "approx_duration_sec": 80,
+      "versions": {
+        "telugu": {
+          "title": "Complex Tour",
+          "id": "1-CTKnV7",
+          "duration_sec": 80,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Telugu)"
+        },
+        "hindi": {
+          "title": "Complex Tour",
+          "id": "X7OyX2w0",
+          "duration_sec": 80,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Hindi)"
+        },
+        "tamil": {
+          "title": "Complex Tour",
+          "id": "UXLq8B0R",
+          "duration_sec": 80,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Tamil)"
+        },
+        "kannada": {
+          "title": "Complex Tour",
+          "id": "kBKssvYB",
+          "duration_sec": 80,
+          "singers": "",
+          "album": "Kalki 2898 AD (Kannada)"
+        },
+        "malayalam": {
+          "title": "Complex Tour",
+          "id": "P8UCo876",
+          "duration_sec": 80,
+          "singers": "",
+          "album": "Kalki 2898 AD (Malayalam)"
+        }
+      }
+    },
+    {
+      "slug": "puttinavaniki",
+      "canonical_title": "Puttinavaniki",
+      "approx_duration_sec": 92,
+      "versions": {
+        "telugu": {
+          "title": "Puttinavaniki",
+          "id": "aHLBHdKu",
+          "duration_sec": 92,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Telugu)"
+        },
+        "hindi": {
+          "title": "Puttinavaniki",
+          "id": "0VfGeCci",
+          "duration_sec": 92,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Hindi)"
+        },
+        "tamil": {
+          "title": "Puttinavaniki",
+          "id": "sKXKJNzv",
+          "duration_sec": 92,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Tamil)"
+        },
+        "kannada": {
+          "title": "Puttinavaniki",
+          "id": "qz-GWbrr",
+          "duration_sec": 92,
+          "singers": "",
+          "album": "Kalki 2898 AD (Kannada)"
+        },
+        "malayalam": {
+          "title": "Puttinavaniki",
+          "id": "cKO7vEUR",
+          "duration_sec": 92,
+          "singers": "",
+          "album": "Kalki 2898 AD (Malayalam)"
+        }
+      }
+    },
+    {
+      "slug": "sum_80",
+      "canonical_title": "SUM 80",
+      "approx_duration_sec": 77,
+      "versions": {
+        "telugu": {
+          "title": "SUM 80",
+          "id": "tFNZWDKc",
+          "duration_sec": 77,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Telugu)"
+        },
+        "hindi": {
+          "title": "SUM 80",
+          "id": "NzZjwbUq",
+          "duration_sec": 77,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Hindi)"
+        },
+        "tamil": {
+          "title": "SUM 80",
+          "id": "uIorMlaV",
+          "duration_sec": 77,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Tamil)"
+        },
+        "kannada": {
+          "title": "SUM 80",
+          "id": "m9RwXhOW",
+          "duration_sec": 77,
+          "singers": "",
+          "album": "Kalki 2898 AD (Kannada)"
+        },
+        "malayalam": {
+          "title": "SUM 80",
+          "id": "QwIoKGLW",
+          "duration_sec": 77,
+          "singers": "",
+          "album": "Kalki 2898 AD (Malayalam)"
+        }
+      }
+    },
+    {
+      "slug": "extraction",
+      "canonical_title": "Extraction",
+      "approx_duration_sec": 77,
+      "versions": {
+        "telugu": {
+          "title": "Extraction",
+          "id": "K4e2znQa",
+          "duration_sec": 77,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Telugu)"
+        },
+        "hindi": {
+          "title": "Extraction",
+          "id": "XChD11F7",
+          "duration_sec": 77,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Hindi)"
+        },
+        "tamil": {
+          "title": "Extraction",
+          "id": "kynCPU5D",
+          "duration_sec": 77,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Tamil)"
+        },
+        "kannada": {
+          "title": "Extraction",
+          "id": "HM9ik9z4",
+          "duration_sec": 77,
+          "singers": "",
+          "album": "Kalki 2898 AD (Kannada)"
+        },
+        "malayalam": {
+          "title": "Extraction",
+          "id": "FYOrc-IA",
+          "duration_sec": 77,
+          "singers": "",
+          "album": "Kalki 2898 AD (Malayalam)"
+        }
+      }
+    },
+    {
+      "slug": "yashkin",
+      "canonical_title": "Yashkin",
+      "approx_duration_sec": 136,
+      "versions": {
+        "telugu": {
+          "title": "Yashkin",
+          "id": "jOjYC-d6",
+          "duration_sec": 136,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Telugu)"
+        },
+        "hindi": {
+          "title": "Yashkin",
+          "id": "dBXGUJv_",
+          "duration_sec": 136,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Hindi)"
+        },
+        "tamil": {
+          "title": "Yashkin",
+          "id": "HphJ1JnA",
+          "duration_sec": 136,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Tamil)"
+        },
+        "kannada": {
+          "title": "Yashkin",
+          "id": "4K4HR-q0",
+          "duration_sec": 136,
+          "singers": "",
+          "album": "Kalki 2898 AD (Kannada)"
+        },
+        "malayalam": {
+          "title": "Yashkin",
+          "id": "54_LBaBY",
+          "duration_sec": 136,
+          "singers": "",
+          "album": "Kalki 2898 AD (Malayalam)"
+        }
+      }
+    },
+    {
+      "slug": "the_child_within",
+      "canonical_title": "The Child Within",
+      "approx_duration_sec": 118,
+      "versions": {
+        "telugu": {
+          "title": "The Child Within",
+          "id": "TA-ign9R",
+          "duration_sec": 118,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Telugu)"
+        },
+        "hindi": {
+          "title": "The Child Within",
+          "id": "xik2oUyf",
+          "duration_sec": 118,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Hindi)"
+        },
+        "tamil": {
+          "title": "The Child Within",
+          "id": "Rq1gGoOw",
+          "duration_sec": 118,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Tamil)"
+        },
+        "kannada": {
+          "title": "The Child Within",
+          "id": "Ivp10hd8",
+          "duration_sec": 118,
+          "singers": "",
+          "album": "Kalki 2898 AD (Kannada)"
+        },
+        "malayalam": {
+          "title": "The Child Within",
+          "id": "vkWr0gtr",
+          "duration_sec": 118,
+          "singers": "",
+          "album": "Kalki 2898 AD (Malayalam)"
+        }
+      }
+    },
+    {
+      "slug": "hey_chintoo",
+      "canonical_title": "Hey Chintoo",
+      "approx_duration_sec": 52,
+      "versions": {
+        "telugu": {
+          "title": "Hey Chintoo",
+          "id": "YTif6OlF",
+          "duration_sec": 52,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Telugu)"
+        },
+        "hindi": {
+          "title": "Hey Chintoo",
+          "id": "5OlY0seX",
+          "duration_sec": 52,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Hindi)"
+        },
+        "tamil": {
+          "title": "Hey Chintoo",
+          "id": "x2eh-dgj",
+          "duration_sec": 52,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Tamil)"
+        },
+        "kannada": {
+          "title": "Hey Chintoo",
+          "id": "YU083NtM",
+          "duration_sec": 52,
+          "singers": "",
+          "album": "Kalki 2898 AD (Kannada)"
+        },
+        "malayalam": {
+          "title": "Hey Chintoo",
+          "id": "7lQkaHtX",
+          "duration_sec": 52,
+          "singers": "",
+          "album": "Kalki 2898 AD (Malayalam)"
+        }
+      }
+    },
+    {
+      "slug": "boy_from_kasi",
+      "canonical_title": "Boy From Kasi",
+      "approx_duration_sec": 66,
+      "versions": {
+        "telugu": {
+          "title": "Boy From Kasi",
+          "id": "2J4CQ5LW",
+          "duration_sec": 66,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Telugu)"
+        },
+        "hindi": {
+          "title": "Boy From Kasi",
+          "id": "jdLaGAs0",
+          "duration_sec": 66,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Hindi)"
+        },
+        "tamil": {
+          "title": "Boy From Kasi",
+          "id": "p5GtL3Bt",
+          "duration_sec": 66,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Tamil)"
+        },
+        "kannada": {
+          "title": "Boy From Kasi",
+          "id": "lfwHo09z",
+          "duration_sec": 66,
+          "singers": "",
+          "album": "Kalki 2898 AD (Kannada)"
+        },
+        "malayalam": {
+          "title": "Boy From Kasi",
+          "id": "BniYiddv",
+          "duration_sec": 66,
+          "singers": "",
+          "album": "Kalki 2898 AD (Malayalam)"
+        }
+      }
+    },
+    {
+      "slug": "where_is_my_rent",
+      "canonical_title": "Where Is My Rent ?",
+      "approx_duration_sec": 51,
+      "versions": {
+        "telugu": {
+          "title": "Where Is My Rent ?",
+          "id": "_E42ruEm",
+          "duration_sec": 51,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Telugu)"
+        },
+        "hindi": {
+          "title": "Where Is My Rent ?",
+          "id": "aqn94brM",
+          "duration_sec": 51,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Hindi)"
+        },
+        "tamil": {
+          "title": "Where Is My Rent ?",
+          "id": "uVESO4zA",
+          "duration_sec": 51,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Tamil)"
+        },
+        "kannada": {
+          "title": "Where Is My Rent ?",
+          "id": "_Z82_WYY",
+          "duration_sec": 51,
+          "singers": "",
+          "album": "Kalki 2898 AD (Kannada)"
+        },
+        "malayalam": {
+          "title": "Where Is My Rent ?",
+          "id": "neq0Jonw",
+          "duration_sec": 51,
+          "singers": "",
+          "album": "Kalki 2898 AD (Malayalam)"
+        }
+      }
+    },
+    {
+      "slug": "ashwathama",
+      "canonical_title": "Ashwathama",
+      "approx_duration_sec": 144,
+      "versions": {
+        "telugu": {
+          "title": "Ashwathama",
+          "id": "QMvXMe_o",
+          "duration_sec": 144,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Telugu)"
+        },
+        "hindi": {
+          "title": "Ashwathama",
+          "id": "WnCSTsrC",
+          "duration_sec": 144,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Hindi)"
+        },
+        "tamil": {
+          "title": "Ashwathama",
+          "id": "9Vha8lrv",
+          "duration_sec": 144,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Tamil)"
+        },
+        "kannada": {
+          "title": "Ashwathama",
+          "id": "g2XgZES-",
+          "duration_sec": 144,
+          "singers": "",
+          "album": "Kalki 2898 AD (Kannada)"
+        },
+        "malayalam": {
+          "title": "Ashwathama",
+          "id": "ZVHLizB1",
+          "duration_sec": 144,
+          "singers": "",
+          "album": "Kalki 2898 AD (Malayalam)"
+        }
+      }
+    },
+    {
+      "slug": "the_escape",
+      "canonical_title": "The Escape",
+      "approx_duration_sec": 40,
+      "versions": {
+        "telugu": {
+          "title": "The Escape",
+          "id": "41qyCfHg",
+          "duration_sec": 40,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Telugu)"
+        },
+        "hindi": {
+          "title": "The Escape",
+          "id": "m5Vqiw_M",
+          "duration_sec": 40,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Hindi)"
+        },
+        "tamil": {
+          "title": "The Escape",
+          "id": "alA59cWZ",
+          "duration_sec": 40,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Tamil)"
+        },
+        "kannada": {
+          "title": "The Escape",
+          "id": "tSIMVZyI",
+          "duration_sec": 40,
+          "singers": "",
+          "album": "Kalki 2898 AD (Kannada)"
+        },
+        "malayalam": {
+          "title": "The Escape",
+          "id": "QUjG6A6R",
+          "duration_sec": 40,
+          "singers": "",
+          "album": "Kalki 2898 AD (Malayalam)"
+        }
+      }
+    },
+    {
+      "slug": "kyra",
+      "canonical_title": "Kyra",
+      "approx_duration_sec": 138,
+      "versions": {
+        "telugu": {
+          "title": "Kyra",
+          "id": "oa-Rkrgn",
+          "duration_sec": 138,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Telugu)"
+        },
+        "hindi": {
+          "title": "Kyra",
+          "id": "m91_9qU0",
+          "duration_sec": 138,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Hindi)"
+        },
+        "tamil": {
+          "title": "Kyra",
+          "id": "X_c1fD1_",
+          "duration_sec": 138,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Tamil)"
+        },
+        "kannada": {
+          "title": "Kyra",
+          "id": "5a2jRVWD",
+          "duration_sec": 138,
+          "singers": "",
+          "album": "Kalki 2898 AD (Kannada)"
+        },
+        "malayalam": {
+          "title": "Kyra",
+          "id": "nDrTiA5F",
+          "duration_sec": 138,
+          "singers": "",
+          "album": "Kalki 2898 AD (Malayalam)"
+        }
+      }
+    },
+    {
+      "slug": "lullaby",
+      "canonical_title": "Lullaby",
+      "approx_duration_sec": 67,
+      "versions": {
+        "telugu": {
+          "title": "Lullaby",
+          "id": "7vFcRCCp",
+          "duration_sec": 67,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Telugu)"
+        },
+        "hindi": {
+          "title": "Lullaby",
+          "id": "Y5jg8Rye",
+          "duration_sec": 67,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Hindi)"
+        },
+        "tamil": {
+          "title": "Lullaby",
+          "id": "c4_uawOR",
+          "duration_sec": 67,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Tamil)"
+        },
+        "kannada": {
+          "title": "Lullaby",
+          "id": "ypfMoIuK",
+          "duration_sec": 67,
+          "singers": "",
+          "album": "Kalki 2898 AD (Kannada)"
+        },
+        "malayalam": {
+          "title": "Lullaby",
+          "id": "GIuNbwhz",
+          "duration_sec": 67,
+          "singers": "",
+          "album": "Kalki 2898 AD (Malayalam)"
+        }
+      }
+    },
+    {
+      "slug": "meeting_mother",
+      "canonical_title": "Meeting Mother",
+      "approx_duration_sec": 78,
+      "versions": {
+        "telugu": {
+          "title": "Meeting Mother",
+          "id": "QDkcCfpD",
+          "duration_sec": 78,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Telugu)"
+        },
+        "hindi": {
+          "title": "Meeting Mother",
+          "id": "B0r26OPf",
+          "duration_sec": 78,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Hindi)"
+        },
+        "tamil": {
+          "title": "Meeting Mother",
+          "id": "gDOEV_ee",
+          "duration_sec": 78,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Tamil)"
+        },
+        "kannada": {
+          "title": "Meeting Mother",
+          "id": "mjpSaSQ9",
+          "duration_sec": 78,
+          "singers": "",
+          "album": "Kalki 2898 AD (Kannada)"
+        },
+        "malayalam": {
+          "title": "Meeting Mother",
+          "id": "IPRFXLpa",
+          "duration_sec": 78,
+          "singers": "",
+          "album": "Kalki 2898 AD (Malayalam)"
+        }
+      }
+    },
+    {
+      "slug": "fist_fight",
+      "canonical_title": "Fist Fight",
+      "approx_duration_sec": 213,
+      "versions": {
+        "telugu": {
+          "title": "Fist Fight",
+          "id": "uj7yRWrn",
+          "duration_sec": 213,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Telugu)"
+        },
+        "hindi": {
+          "title": "Fist Fight",
+          "id": "YPpxgn66",
+          "duration_sec": 213,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Hindi)"
+        },
+        "tamil": {
+          "title": "Fist Fight",
+          "id": "iZ3FuobW",
+          "duration_sec": 213,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Tamil)"
+        },
+        "kannada": {
+          "title": "Fist Fight",
+          "id": "SE_Ur_DP",
+          "duration_sec": 213,
+          "singers": "",
+          "album": "Kalki 2898 AD (Kannada)"
+        },
+        "malayalam": {
+          "title": "Fist Fight",
+          "id": "JIUcu6Pf",
+          "duration_sec": 213,
+          "singers": "",
+          "album": "Kalki 2898 AD (Malayalam)"
+        }
+      }
+    },
+    {
+      "slug": "bujji_theme",
+      "canonical_title": "Bujji Theme",
+      "approx_duration_sec": 46,
+      "versions": {
+        "telugu": {
+          "title": "Bujji Theme",
+          "id": "PmqqZeRb",
+          "duration_sec": 46,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Telugu)"
+        },
+        "hindi": {
+          "title": "Bujji Theme",
+          "id": "pGJ6jN-k",
+          "duration_sec": 46,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Hindi)"
+        },
+        "tamil": {
+          "title": "Bujji Theme",
+          "id": "KuFjKgyD",
+          "duration_sec": 46,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Tamil)"
+        },
+        "kannada": {
+          "title": "Bujji Theme",
+          "id": "beuSNDnT",
+          "duration_sec": 46,
+          "singers": "",
+          "album": "Kalki 2898 AD (Kannada)"
+        },
+        "malayalam": {
+          "title": "Bujji Theme",
+          "id": "3oQJGIk6",
+          "duration_sec": 46,
+          "singers": "",
+          "album": "Kalki 2898 AD (Malayalam)"
+        }
+      }
+    },
+    {
+      "slug": "never_lost_a_fight",
+      "canonical_title": "Never Lost a Fight",
+      "approx_duration_sec": 77,
+      "versions": {
+        "telugu": {
+          "title": "Never Lost a Fight",
+          "id": "lJOpiauI",
+          "duration_sec": 77,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Telugu)"
+        },
+        "hindi": {
+          "title": "Never Lost a Fight",
+          "id": "TtiTXqmu",
+          "duration_sec": 77,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Hindi)"
+        },
+        "tamil": {
+          "title": "Never Lost a Fight",
+          "id": "NN3vm3tY",
+          "duration_sec": 77,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Tamil)"
+        },
+        "kannada": {
+          "title": "Never Lost a Fight",
+          "id": "SxPSu_ss",
+          "duration_sec": 77,
+          "singers": "",
+          "album": "Kalki 2898 AD (Kannada)"
+        },
+        "malayalam": {
+          "title": "Never Lost a Fight",
+          "id": "T39woSLG",
+          "duration_sec": 77,
+          "singers": "",
+          "album": "Kalki 2898 AD (Malayalam)"
+        }
+      }
+    },
+    {
+      "slug": "shambala_rain",
+      "canonical_title": "Shambala Rain",
+      "approx_duration_sec": 155,
+      "versions": {
+        "telugu": {
+          "title": "Shambala Rain",
+          "id": "wG-7oqAM",
+          "duration_sec": 155,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Telugu)"
+        },
+        "hindi": {
+          "title": "Shambala Rain",
+          "id": "zbygNtCc",
+          "duration_sec": 155,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Hindi)"
+        },
+        "tamil": {
+          "title": "Shambala Rain",
+          "id": "pdY0ojae",
+          "duration_sec": 155,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Tamil)"
+        },
+        "kannada": {
+          "title": "Shambala Rain",
+          "id": "9_qfFY8n",
+          "duration_sec": 155,
+          "singers": "",
+          "album": "Kalki 2898 AD (Kannada)"
+        },
+        "malayalam": {
+          "title": "Shambala Rain",
+          "id": "4QY2S8PC",
+          "duration_sec": 155,
+          "singers": "",
+          "album": "Kalki 2898 AD (Malayalam)"
+        }
+      }
+    },
+    {
+      "slug": "shambala",
+      "canonical_title": "Shambala",
+      "approx_duration_sec": 141,
+      "versions": {
+        "telugu": {
+          "title": "Shambala",
+          "id": "AAVEx5RI",
+          "duration_sec": 141,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Telugu)"
+        },
+        "hindi": {
+          "title": "Shambala",
+          "id": "aHUT3BMS",
+          "duration_sec": 141,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Hindi)"
+        },
+        "tamil": {
+          "title": "Shambala",
+          "id": "LWrIDsy3",
+          "duration_sec": 141,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Tamil)"
+        },
+        "kannada": {
+          "title": "Shambala",
+          "id": "-3vEN4ft",
+          "duration_sec": 141,
+          "singers": "",
+          "album": "Kalki 2898 AD (Kannada)"
+        },
+        "malayalam": {
+          "title": "Shambala",
+          "id": "8tzopcxc",
+          "duration_sec": 141,
+          "singers": "",
+          "album": "Kalki 2898 AD (Malayalam)"
+        }
+      }
+    },
+    {
+      "slug": "ashwa_vs_ashwa",
+      "canonical_title": "Ashwa Vs Ashwa",
+      "approx_duration_sec": 66,
+      "versions": {
+        "telugu": {
+          "title": "Ashwa Vs Ashwa",
+          "id": "uO4Kv9CF",
+          "duration_sec": 66,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Telugu)"
+        },
+        "hindi": {
+          "title": "Ashwa Vs Ashwa",
+          "id": "oYlB_Qpq",
+          "duration_sec": 66,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Hindi)"
+        },
+        "tamil": {
+          "title": "Ashwa Vs Ashwa",
+          "id": "XsK1Xewg",
+          "duration_sec": 66,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Tamil)"
+        },
+        "kannada": {
+          "title": "Ashwa Vs Ashwa",
+          "id": "OnXagWNK",
+          "duration_sec": 66,
+          "singers": "",
+          "album": "Kalki 2898 AD (Kannada)"
+        },
+        "malayalam": {
+          "title": "Ashwa Vs Ashwa",
+          "id": "U09zp5TC",
+          "duration_sec": 66,
+          "singers": "",
+          "album": "Kalki 2898 AD (Malayalam)"
+        }
+      }
+    },
+    {
+      "slug": "only_death_wins_in_war",
+      "canonical_title": "Only Death Wins in War",
+      "approx_duration_sec": 138,
+      "versions": {
+        "telugu": {
+          "title": "Only Death Wins in War",
+          "id": "M4T7Ybny",
+          "duration_sec": 138,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Telugu)"
+        },
+        "hindi": {
+          "title": "Only Death Wins in War",
+          "id": "Hvh1L7QM",
+          "duration_sec": 138,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Hindi)"
+        },
+        "tamil": {
+          "title": "Only Death Wins in War",
+          "id": "95yP8IUb",
+          "duration_sec": 138,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Tamil)"
+        },
+        "kannada": {
+          "title": "Only Death Wins in War",
+          "id": "jfzYoB81",
+          "duration_sec": 138,
+          "singers": "",
+          "album": "Kalki 2898 AD (Kannada)"
+        },
+        "malayalam": {
+          "title": "Only Death Wins in War",
+          "id": "zB6tkDMt",
+          "duration_sec": 138,
+          "singers": "",
+          "album": "Kalki 2898 AD (Malayalam)"
+        }
+      }
+    },
+    {
+      "slug": "final_flight",
+      "canonical_title": "Final Flight",
+      "approx_duration_sec": 136,
+      "versions": {
+        "telugu": {
+          "title": "Final Flight",
+          "id": "hArT5Dsy",
+          "duration_sec": 136,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Telugu)"
+        },
+        "hindi": {
+          "title": "Final Flight",
+          "id": "HQ8SYQRN",
+          "duration_sec": 136,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Hindi)"
+        },
+        "tamil": {
+          "title": "Final Flight",
+          "id": "r9HNJwxU",
+          "duration_sec": 136,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Tamil)"
+        },
+        "kannada": {
+          "title": "Final Flight",
+          "id": "N0d5y6FE",
+          "duration_sec": 136,
+          "singers": "",
+          "album": "Kalki 2898 AD (Kannada)"
+        },
+        "malayalam": {
+          "title": "Final Flight",
+          "id": "HWkBvWbS",
+          "duration_sec": 136,
+          "singers": "",
+          "album": "Kalki 2898 AD (Malayalam)"
+        }
+      }
+    },
+    {
+      "slug": "hero",
+      "canonical_title": "Hero",
+      "approx_duration_sec": 100,
+      "versions": {
+        "telugu": {
+          "title": "Hero",
+          "id": "ltUAi5ch",
+          "duration_sec": 100,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Telugu)"
+        },
+        "hindi": {
+          "title": "Hero",
+          "id": "B_1Dp4pe",
+          "duration_sec": 100,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Hindi)"
+        },
+        "tamil": {
+          "title": "Hero",
+          "id": "4E6sW8yQ",
+          "duration_sec": 100,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Tamil)"
+        },
+        "kannada": {
+          "title": "Hero",
+          "id": "8un4jUPQ",
+          "duration_sec": 100,
+          "singers": "",
+          "album": "Kalki 2898 AD (Kannada)"
+        },
+        "malayalam": {
+          "title": "Hero",
+          "id": "alMTgcUr",
+          "duration_sec": 100,
+          "singers": "",
+          "album": "Kalki 2898 AD (Malayalam)"
+        }
+      }
+    },
+    {
+      "slug": "veera_dheera",
+      "canonical_title": "Veera Dheera",
+      "approx_duration_sec": 245,
+      "versions": {
+        "telugu": {
+          "title": "Veera Dheera",
+          "id": "j-dMn3IU",
+          "duration_sec": 245,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Telugu)"
+        },
+        "hindi": {
+          "title": "Veera Dheera",
+          "id": "wJdLcNWQ",
+          "duration_sec": 245,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Hindi)"
+        },
+        "tamil": {
+          "title": "Veera Dheera",
+          "id": "05T6jws-",
+          "duration_sec": 245,
+          "singers": "",
+          "album": "Kalki 2898 Ad (Tamil)"
+        },
+        "kannada": {
+          "title": "Veera Dheera",
+          "id": "mSRqplse",
+          "duration_sec": 245,
+          "singers": "",
+          "album": "Kalki 2898 AD (Kannada)"
+        },
+        "malayalam": {
+          "title": "Veera Dheera",
+          "id": "rYrzktY3",
+          "duration_sec": 245,
+          "singers": "",
+          "album": "Kalki 2898 AD (Malayalam)"
+        }
+      }
+    }
+  ]
+}

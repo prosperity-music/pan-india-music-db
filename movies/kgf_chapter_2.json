@@ -1,0 +1,120 @@
+{
+  "movie": "K.G.F: Chapter 2",
+  "movie_slug": "kgf_chapter_2",
+  "year": 2022,
+  "music_director": "Ravi Basrur",
+  "languages": [
+    "kannada",
+    "hindi",
+    "telugu",
+    "tamil",
+    "malayalam"
+  ],
+  "songs": [
+    {
+      "slug": "toofan",
+      "canonical_title": "Toofan",
+      "approx_duration_sec": 214,
+      "versions": {
+        "kannada": {
+          "title": "Toofan",
+          "id": "Se7Zdc_d",
+          "duration_sec": 214,
+          "singers": "",
+          "album": "KGF Chapter 2 - Kannada"
+        },
+        "hindi": {
+          "title": "Toofan",
+          "id": "bGX4y_H0",
+          "duration_sec": 213,
+          "singers": "",
+          "album": "KGF Chapter 2"
+        }
+      }
+    },
+    {
+      "slug": "gagana_nee",
+      "canonical_title": "Gagana Nee",
+      "approx_duration_sec": 171,
+      "versions": {
+        "kannada": {
+          "title": "Gagana Nee",
+          "id": "PSgcLVx8",
+          "duration_sec": 171,
+          "singers": "",
+          "album": "KGF Chapter 2 - Kannada"
+        },
+        "hindi": {
+          "title": "Falak Tu Garaj Tu",
+          "id": "yPcTEgZt",
+          "duration_sec": 171,
+          "singers": "",
+          "album": "KGF Chapter 2"
+        },
+        "telugu": {
+          "title": "The Monster Song (From \"KGF Chapter 2 - Telugu\")",
+          "id": "hxSr-AJd",
+          "duration_sec": 166,
+          "singers": "",
+          "album": "KGF Chapter 2 - Telugu"
+        },
+        "tamil": {
+          "title": "The Monster Song (From \"KGF Chapter 2 - Tamil\")",
+          "id": "dIwr4F2y",
+          "duration_sec": 166,
+          "singers": "",
+          "album": "KGF Chapter 2 - Tamil"
+        },
+        "malayalam": {
+          "title": "The Monster Song (From \"KGF Chapter 2 - Malayalam\")",
+          "id": "4OZpPaUs",
+          "duration_sec": 166,
+          "singers": "",
+          "album": "KGF Chapter 2 - Malayalam"
+        }
+      }
+    },
+    {
+      "slug": "sulthana",
+      "canonical_title": "Sulthana",
+      "approx_duration_sec": 225,
+      "versions": {
+        "kannada": {
+          "title": "Sulthana",
+          "id": "OkVC-QPz",
+          "duration_sec": 225,
+          "singers": "",
+          "album": "KGF Chapter 2 - Kannada"
+        },
+        "hindi": {
+          "title": "Sulthan",
+          "id": "EVZxV3Ua",
+          "duration_sec": 225,
+          "singers": "",
+          "album": "KGF Chapter 2"
+        }
+      }
+    },
+    {
+      "slug": "mehabooba",
+      "canonical_title": "Mehabooba",
+      "approx_duration_sec": 212,
+      "versions": {
+        "kannada": {
+          "title": "Mehabooba",
+          "id": "TN_4m9SE",
+          "duration_sec": 212,
+          "singers": "",
+          "album": "KGF Chapter 2 - Kannada"
+        },
+        "hindi": {
+          "title": "Mehabooba",
+          "id": "Px4ijiYZ",
+          "duration_sec": 213,
+          "singers": "",
+          "album": "KGF Chapter 2"
+        }
+      }
+    }
+  ]
+}

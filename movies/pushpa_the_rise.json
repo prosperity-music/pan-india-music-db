@@ -1,0 +1,254 @@
+{
+  "movie": "Pushpa The Rise",
+  "movie_slug": "pushpa_the_rise",
+  "year": 2021,
+  "music_director": "Devi Sri Prasad",
+  "languages": [
+    "telugu",
+    "hindi",
+    "tamil",
+    "kannada",
+    "malayalam",
+    "bengali"
+  ],
+  "songs": [
+    {
+      "slug": "daakko_daakko_meka",
+      "canonical_title": "Daakko Daakko Meka",
+      "approx_duration_sec": 295,
+      "versions": {
+        "telugu": {
+          "title": "Daakko Daakko Meka",
+          "id": "i59AsjBh",
+          "duration_sec": 295,
+          "singers": "",
+          "album": "Pushpa - The Rise"
+        },
+        "hindi": {
+          "title": "Jaago Jaago Bakre",
+          "id": "6dk2QWi-",
+          "duration_sec": 297,
+          "singers": "",
+          "album": "Pushpa The Rise Part - 01"
+        },
+        "tamil": {
+          "title": "Odu Odu Aadu",
+          "id": "mzJh1-tY",
+          "duration_sec": 295,
+          "singers": "",
+          "album": "Pushpa - The Rise"
+        },
+        "kannada": {
+          "title": "Jokke Jokke Meke",
+          "id": "NaBLGdHU",
+          "duration_sec": 295,
+          "singers": "",
+          "album": "Pushpa - The Rise"
+        },
+        "malayalam": {
+          "title": "Odu Odu Aade",
+          "id": "IlAkiXQa",
+          "duration_sec": 295,
+          "singers": "",
+          "album": "Pushpa - The Rise"
+        }
+      }
+    },
+    {
+      "slug": "srivalli",
+      "canonical_title": "Srivalli",
+      "approx_duration_sec": 221,
+      "versions": {
+        "telugu": {
+          "title": "Srivalli",
+          "id": "4r-wShBa",
+          "duration_sec": 221,
+          "singers": "",
+          "album": "Pushpa - The Rise"
+        },
+        "hindi": {
+          "title": "Srivalli",
+          "id": "z8v--dIT",
+          "duration_sec": 224,
+          "singers": "",
+          "album": "Pushpa The Rise Part - 01"
+        },
+        "tamil": {
+          "title": "Srivalli",
+          "id": "bgOSk7Ag",
+          "duration_sec": 221,
+          "singers": "",
+          "album": "Pushpa - The Rise"
+        },
+        "kannada": {
+          "title": "Srivalli",
+          "id": "fGvJGfhf",
+          "duration_sec": 221,
+          "singers": "",
+          "album": "Pushpa - The Rise"
+        },
+        "malayalam": {
+          "title": "Srivalli",
+          "id": "rIllcnqb",
+          "duration_sec": 221,
+          "singers": "",
+          "album": "Pushpa - The Rise"
+        },
+        "bengali": {
+          "title": "Srivalli Bengali Version",
+          "id": "tAhugtud",
+          "duration_sec": 223,
+          "singers": "",
+          "album": "Pushpa - The Rise"
+        }
+      }
+    },
+    {
+      "slug": "oo_antava_oo_oo_antava",
+      "canonical_title": "Oo Antava Oo Oo Antava",
+      "approx_duration_sec": 223,
+      "versions": {
+        "telugu": {
+          "title": "Oo Antava Oo Oo Antava",
+          "id": "QOaKBiVi",
+          "duration_sec": 223,
+          "singers": "",
+          "album": "Pushpa - The Rise"
+        },
+        "hindi": {
+          "title": "Oo Bolega Ya Oo Oo Bolega",
+          "id": "aRgGMLHb",
+          "duration_sec": 226,
+          "singers": "",
+          "album": "Pushpa The Rise Part - 01"
+        },
+        "tamil": {
+          "title": "Oo Solriya Oo Oo Solriya",
+          "id": "NmkwfzYX",
+          "duration_sec": 223,
+          "singers": "",
+          "album": "Pushpa - The Rise"
+        },
+        "kannada": {
+          "title": "Oo Anthiya Oo Oo Anthiya",
+          "id": "JazMzdTc",
+          "duration_sec": 223,
+          "singers": "",
+          "album": "Pushpa - The Rise"
+        },
+        "malayalam": {
+          "title": "Oo Chollunno Oo Oo Chollunno",
+          "id": "5qued9yl",
+          "duration_sec": 224,
+          "singers": "",
+          "album": "Pushpa - The Rise"
+        },
+        "bengali": {
+          "title": "Oo Bawlo Thik Kina Bengali Version",
+          "id": "ylsPw3Bw",
+          "duration_sec": 217,
+          "singers": "",
+          "album": "Pushpa - The Rise"
+        }
+      }
+    },
+    {
+      "slug": "saami_saami",
+      "canonical_title": "Saami Saami",
+      "approx_duration_sec": 223,
+      "versions": {
+        "telugu": {
+          "title": "Saami Saami",
+          "id": "OByN1gHS",
+          "duration_sec": 223,
+          "singers": "",
+          "album": "Pushpa - The Rise"
+        },
+        "hindi": {
+          "title": "Saami Saami",
+          "id": "6mdQ4Pug",
+          "duration_sec": 227,
+          "singers": "",
+          "album": "Pushpa The Rise Part - 01"
+        },
+        "tamil": {
+          "title": "Saami Saami",
+          "id": "kF03SJoK",
+          "duration_sec": 224,
+          "singers": "",
+          "album": "Pushpa - The Rise"
+        },
+        "kannada": {
+          "title": "Saami Saami",
+          "id": "FJPcm41z",
+          "duration_sec": 224,
+          "singers": "",
+          "album": "Pushpa - The Rise"
+        },
+        "malayalam": {
+          "title": "Saami Saami",
+          "id": "WlAXvS7e",
+          "duration_sec": 224,
+          "singers": "",
+          "album": "Pushpa - The Rise"
+        },
+        "bengali": {
+          "title": "Saami Saami Bengali Version",
+          "id": "NbyE5PuW",
+          "duration_sec": 225,
+          "singers": "",
+          "album": "Pushpa - The Rise"
+        }
+      }
+    },
+    {
+      "slug": "eyy_bidda_idhi_naa_adda",
+      "canonical_title": "Eyy Bidda Idhi Naa Adda",
+      "approx_duration_sec": 236,
+      "versions": {
+        "telugu": {
+          "title": "Eyy Bidda Idhi Naa Adda",
+          "id": "yqLYRmy5",
+          "duration_sec": 236,
+          "singers": "",
+          "album": "Pushpa - The Rise"
+        },
+        "hindi": {
+          "title": "Eyy Bidda Ye Mera Adda",
+          "id": "fCWh57hZ",
+          "duration_sec": 236,
+          "singers": "",
+          "album": "Pushpa The Rise Part - 01"
+        },
+        "tamil": {
+          "title": "Eyy Beta Idhu En Patta",
+          "id": "gw-tU7r_",
+          "duration_sec": 236,
+          "singers": "",
+          "album": "Pushpa - The Rise"
+        },
+        "kannada": {
+          "title": "Eyy Maga Idhu Nan Jagaa",
+          "id": "xf0aDzLy",
+          "duration_sec": 236,
+          "singers": "",
+          "album": "Pushpa - The Rise"
+        },
+        "malayalam": {
+          "title": "Eyy Poda Ithu Njaanaada",
+          "id": "cdRrfNo_",
+          "duration_sec": 236,
+          "singers": "",
+          "album": "Pushpa - The Rise"
+        },
+        "bengali": {
+          "title": "Saami Saami Bengali Version",
+          "id": "NbyE5PuW",
+          "duration_sec": 225,
+          "singers": "",
+          "album": "Pushpa - The Rise"
+        }
+      }
+    }
+  ]
+}

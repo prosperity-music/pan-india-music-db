@@ -1,0 +1,309 @@
+{
+  "movie": "RRR",
+  "movie_slug": "rrr",
+  "year": 2022,
+  "music_director": "M. M. Keeravani",
+  "languages": [
+    "telugu",
+    "hindi",
+    "tamil",
+    "kannada",
+    "malayalam"
+  ],
+  "songs": [
+    {
+      "slug": "dosti",
+      "canonical_title": "Dosti",
+      "approx_duration_sec": 340,
+      "versions": {
+        "telugu": {
+          "title": "Dosti",
+          "id": "OrwH7d7i",
+          "duration_sec": 340,
+          "singers": "",
+          "album": "RRR - Telugu"
+        },
+        "hindi": {
+          "title": "Dosti",
+          "id": "-NxrT3GL",
+          "duration_sec": 340,
+          "singers": "",
+          "album": "RRR"
+        },
+        "tamil": {
+          "title": "Natpu",
+          "id": "aDocDH2I",
+          "duration_sec": 340,
+          "singers": "",
+          "album": "RRR - Tamil"
+        },
+        "kannada": {
+          "title": "Dosti",
+          "id": "CroVxW9J",
+          "duration_sec": 340,
+          "singers": "",
+          "album": "RRR - Kannada"
+        },
+        "malayalam": {
+          "title": "Priyam",
+          "id": "VmwseDQb",
+          "duration_sec": 340,
+          "singers": "",
+          "album": "RRR - Malayalam"
+        }
+      }
+    },
+    {
+      "slug": "naatu_naatu",
+      "canonical_title": "Naatu Naatu",
+      "approx_duration_sec": 214,
+      "versions": {
+        "telugu": {
+          "title": "Naatu Naatu",
+          "id": "-JkPBIE7",
+          "duration_sec": 214,
+          "singers": "",
+          "album": "RRR - Telugu"
+        },
+        "hindi": {
+          "title": "Naacho Naacho",
+          "id": "Bi08z-lZ",
+          "duration_sec": 214,
+          "singers": "",
+          "album": "RRR"
+        },
+        "tamil": {
+          "title": "Naattu Koothu",
+          "id": "Lihwbw5R",
+          "duration_sec": 214,
+          "singers": "",
+          "album": "RRR - Tamil"
+        },
+        "kannada": {
+          "title": "Halli Naatu",
+          "id": "cKHHwHUS",
+          "duration_sec": 214,
+          "singers": "",
+          "album": "RRR - Kannada"
+        },
+        "malayalam": {
+          "title": "Karinthol",
+          "id": "j2mBTgHy",
+          "duration_sec": 214,
+          "singers": "",
+          "album": "RRR - Malayalam"
+        }
+      }
+    },
+    {
+      "slug": "janani",
+      "canonical_title": "Janani",
+      "approx_duration_sec": 188,
+      "versions": {
+        "telugu": {
+          "title": "Janani",
+          "id": "4o_WblGC",
+          "duration_sec": 188,
+          "singers": "",
+          "album": "RRR - Telugu"
+        },
+        "hindi": {
+          "title": "Janani",
+          "id": "80DKZ0eN",
+          "duration_sec": 188,
+          "singers": "",
+          "album": "RRR"
+        },
+        "tamil": {
+          "title": "Uyire",
+          "id": "q1O6VRFM",
+          "duration_sec": 188,
+          "singers": "",
+          "album": "RRR - Tamil"
+        },
+        "kannada": {
+          "title": "Janani",
+          "id": "8Nbb1pvf",
+          "duration_sec": 188,
+          "singers": "",
+          "album": "RRR - Kannada"
+        },
+        "malayalam": {
+          "title": "Janani",
+          "id": "Zj_1Sneq",
+          "duration_sec": 188,
+          "singers": "",
+          "album": "RRR - Malayalam"
+        }
+      }
+    },
+    {
+      "slug": "komuram_bheemudo",
+      "canonical_title": "Komuram Bheemudo",
+      "approx_duration_sec": 254,
+      "versions": {
+        "telugu": {
+          "title": "Komuram Bheemudo",
+          "id": "lPFUlQgU",
+          "duration_sec": 254,
+          "singers": "",
+          "album": "RRR - Telugu"
+        },
+        "hindi": {
+          "title": "Komuram Bheemudo",
+          "id": "T353e60y",
+          "duration_sec": 254,
+          "singers": "",
+          "album": "RRR"
+        },
+        "tamil": {
+          "title": "Komuram Beemano",
+          "id": "dspPl_F3",
+          "duration_sec": 254,
+          "singers": "",
+          "album": "RRR - Tamil"
+        },
+        "kannada": {
+          "title": "Komuram Bheemudho",
+          "id": "eilUWvaz",
+          "duration_sec": 254,
+          "singers": "",
+          "album": "RRR - Kannada"
+        },
+        "malayalam": {
+          "title": "Komuram Bheemano",
+          "id": "wHgbpYqn",
+          "duration_sec": 254,
+          "singers": "",
+          "album": "RRR - Malayalam"
+        }
+      }
+    },
+    {
+      "slug": "raamam_raaghavam",
+      "canonical_title": "Raamam Raaghavam",
+      "approx_duration_sec": 231,
+      "versions": {
+        "telugu": {
+          "title": "Raamam Raaghavam",
+          "id": "QzN0JtIH",
+          "duration_sec": 231,
+          "singers": "",
+          "album": "RRR - Telugu"
+        },
+        "hindi": {
+          "title": "Raamam Raaghavam",
+          "id": "sk08hcdh",
+          "duration_sec": 231,
+          "singers": "",
+          "album": "RRR"
+        },
+        "tamil": {
+          "title": "Raamam Raaghavam",
+          "id": "GEYUZHvy",
+          "duration_sec": 231,
+          "singers": "",
+          "album": "RRR - Tamil"
+        },
+        "kannada": {
+          "title": "Raamam Raaghavam",
+          "id": "L2CqzDKE",
+          "duration_sec": 231,
+          "singers": "",
+          "album": "RRR - Kannada"
+        },
+        "malayalam": {
+          "title": "Raamam Raaghavam",
+          "id": "n-hDMtqY",
+          "duration_sec": 231,
+          "singers": "",
+          "album": "RRR - Malayalam"
+        }
+      }
+    },
+    {
+      "slug": "etthara_jenda",
+      "canonical_title": "Etthara Jenda",
+      "approx_duration_sec": 262,
+      "versions": {
+        "telugu": {
+          "title": "Etthara Jenda",
+          "id": "I5qUtDwm",
+          "duration_sec": 262,
+          "singers": "",
+          "album": "RRR - Telugu"
+        },
+        "hindi": {
+          "title": "Sholay",
+          "id": "VZAh-9LH",
+          "duration_sec": 256,
+          "singers": "",
+          "album": "RRR"
+        },
+        "tamil": {
+          "title": "Koelae",
+          "id": "cyFqMtD-",
+          "duration_sec": 256,
+          "singers": "",
+          "album": "RRR - Tamil"
+        },
+        "kannada": {
+          "title": "Etthuva Jenda",
+          "id": "li_Bped9",
+          "duration_sec": 256,
+          "singers": "",
+          "album": "RRR - Kannada"
+        },
+        "malayalam": {
+          "title": "Etthuka Jenda",
+          "id": "KD1yyuZB",
+          "duration_sec": 256,
+          "singers": "",
+          "album": "RRR - Malayalam"
+        }
+      }
+    },
+    {
+      "slug": "komma_uyyala",
+      "canonical_title": "Komma Uyyala",
+      "approx_duration_sec": 284,
+      "versions": {
+        "telugu": {
+          "title": "Komma Uyyala",
+          "id": "dvZH3epn",
+          "duration_sec": 284,
+          "singers": "",
+          "album": "RRR - Telugu"
+        },
+        "hindi": {
+          "title": "Ambar Se Toda",
+          "id": "pjqZDerT",
+          "duration_sec": 284,
+          "singers": "",
+          "album": "RRR"
+        },
+        "tamil": {
+          "title": "Kombaa Un Kaadaa",
+          "id": "6CiPlrpc",
+          "duration_sec": 284,
+          "singers": "",
+          "album": "RRR - Tamil"
+        },
+        "kannada": {
+          "title": "Kombe Uyyale",
+          "id": "i0gxXxQM",
+          "duration_sec": 284,
+          "singers": "",
+          "album": "RRR - Kannada"
+        },
+        "malayalam": {
+          "title": "Komba Ninn Kaada",
+          "id": "-fSpgqF5",
+          "duration_sec": 284,
+          "singers": "",
+          "album": "RRR - Malayalam"
+        }
+      }
+    }
+  ]
+}

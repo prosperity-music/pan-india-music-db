@@ -1,0 +1,25 @@
+{
+  "movie": "K.G.F: Chapter 1",
+  "movie_slug": "kgf_chapter_1",
+  "year": 2018,
+  "music_director": "Ravi Basrur",
+  "languages": [
+    "hindi"
+  ],
+  "songs": [
+    {
+      "slug": "gali_gali_from_kgf_chapter_1",
+      "canonical_title": "Gali Gali (From \"Kgf Chapter 1\")",
+      "approx_duration_sec": 174,
+      "versions": {
+        "hindi": {
+          "title": "Gali Gali (From \"Kgf Chapter 1\")",
+          "id": "AkiHZmaY",
+          "duration_sec": 174,
+          "singers": "",
+          "album": "Gali Gali (From &quot;Kgf Chapter 1&quot;)"
+        }
+      }
+    }
+  ]
+}

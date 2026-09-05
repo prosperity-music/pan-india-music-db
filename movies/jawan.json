@@ -1,0 +1,209 @@
+{
+  "movie": "Jawan",
+  "movie_slug": "jawan",
+  "year": 2023,
+  "music_director": "Anirudh Ravichander",
+  "languages": [
+    "hindi",
+    "tamil",
+    "telugu"
+  ],
+  "songs": [
+    {
+      "slug": "zinda_banda",
+      "canonical_title": "Zinda Banda",
+      "approx_duration_sec": 264,
+      "versions": {
+        "hindi": {
+          "title": "Zinda Banda",
+          "id": "ck7h8Ccw",
+          "duration_sec": 264,
+          "singers": "",
+          "album": "Jawan"
+        },
+        "tamil": {
+          "title": "Vandha Edam",
+          "id": "6d1WWj2Y",
+          "duration_sec": 252,
+          "singers": "",
+          "album": "Jawan (TAMIL)"
+        },
+        "telugu": {
+          "title": "Dhumme Dhulipelaa",
+          "id": "zD2W98ky",
+          "duration_sec": 252,
+          "singers": "",
+          "album": "Jawan  (TELUGU)"
+        }
+      }
+    },
+    {
+      "slug": "chaleya",
+      "canonical_title": "Chaleya",
+      "approx_duration_sec": 200,
+      "versions": {
+        "hindi": {
+          "title": "Chaleya",
+          "id": "faloMmjX",
+          "duration_sec": 200,
+          "singers": "",
+          "album": "Jawan"
+        },
+        "tamil": {
+          "title": "Hayyoda",
+          "id": "asyeukc4",
+          "duration_sec": 200,
+          "singers": "",
+          "album": "Jawan (TAMIL)"
+        },
+        "telugu": {
+          "title": "Chalona",
+          "id": "1OAN9VXV",
+          "duration_sec": 200,
+          "singers": "",
+          "album": "Jawan  (TELUGU)"
+        }
+      }
+    },
+    {
+      "slug": "not_ramaiya_vastavaiya",
+      "canonical_title": "Not Ramaiya Vastavaiya",
+      "approx_duration_sec": 202,
+      "versions": {
+        "hindi": {
+          "title": "Not Ramaiya Vastavaiya",
+          "id": "bwuITPVZ",
+          "duration_sec": 202,
+          "singers": "",
+          "album": "Jawan"
+        },
+        "tamil": {
+          "title": "Not Ramaiya Vastavaiya",
+          "id": "ShPHrwGh",
+          "duration_sec": 202,
+          "singers": "",
+          "album": "Jawan (TAMIL)"
+        },
+        "telugu": {
+          "title": "Not Ramaiya Vastavaiya",
+          "id": "Jb3PaoDm",
+          "duration_sec": 202,
+          "singers": "",
+          "album": "Jawan  (TELUGU)"
+        }
+      }
+    },
+    {
+      "slug": "aararaari_raaro",
+      "canonical_title": "Aararaari Raaro",
+      "approx_duration_sec": 278,
+      "versions": {
+        "hindi": {
+          "title": "Aararaari Raaro",
+          "id": "gonPUNS8",
+          "duration_sec": 278,
+          "singers": "",
+          "album": "Jawan"
+        },
+        "tamil": {
+          "title": "Aararaari Raaro",
+          "id": "DQZj_pqF",
+          "duration_sec": 278,
+          "singers": "",
+          "album": "Jawan (TAMIL)"
+        },
+        "telugu": {
+          "title": "Nallaani Cheekatilo",
+          "id": "Hm5Wais3",
+          "duration_sec": 278,
+          "singers": "",
+          "album": "Jawan  (TELUGU)"
+        }
+      }
+    },
+    {
+      "slug": "jawan_title_track",
+      "canonical_title": "Jawan Title Track",
+      "approx_duration_sec": 188,
+      "versions": {
+        "hindi": {
+          "title": "Jawan Title Track",
+          "id": "2OWYOMAB",
+          "duration_sec": 188,
+          "singers": "",
+          "album": "Jawan"
+        },
+        "tamil": {
+          "title": "Jawan Title Track",
+          "id": "iPx70o-5",
+          "duration_sec": 188,
+          "singers": "",
+          "album": "Jawan (TAMIL)"
+        },
+        "telugu": {
+          "title": "Jawan Title Track",
+          "id": "z2k88Oxl",
+          "duration_sec": 188,
+          "singers": "",
+          "album": "Jawan  (TELUGU)"
+        }
+      }
+    },
+    {
+      "slug": "faraatta",
+      "canonical_title": "Faraatta",
+      "approx_duration_sec": 195,
+      "versions": {
+        "hindi": {
+          "title": "Faraatta",
+          "id": "mW5FLebm",
+          "duration_sec": 195,
+          "singers": "",
+          "album": "Jawan"
+        },
+        "tamil": {
+          "title": "Pattasa",
+          "id": "TBJpyT6u",
+          "duration_sec": 195,
+          "singers": "",
+          "album": "Jawan (TAMIL)"
+        },
+        "telugu": {
+          "title": "Galatta",
+          "id": "woguZlZQ",
+          "duration_sec": 195,
+          "singers": "",
+          "album": "Jawan  (TELUGU)"
+        }
+      }
+    },
+    {
+      "slug": "chaleya_arabic_version",
+      "canonical_title": "Chaleya Arabic Version",
+      "approx_duration_sec": 200,
+      "versions": {
+        "hindi": {
+          "title": "Chaleya Arabic Version",
+          "id": "oux_u4tp",
+          "duration_sec": 200,
+          "singers": "",
+          "album": "Jawan"
+        },
+        "tamil": {
+          "title": "Hayyoda",
+          "id": "asyeukc4",
+          "duration_sec": 200,
+          "singers": "",
+          "album": "Jawan (TAMIL)"
+        },
+        "telugu": {
+          "title": "Chalona",
+          "id": "1OAN9VXV",
+          "duration_sec": 200,
+          "singers": "",
+          "album": "Jawan  (TELUGU)"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "movie": "Salaar",
+  "movie_slug": "salaar",
+  "year": 2023,
+  "music_director": "Ravi Basrur",
+  "languages": [
+    "telugu",
+    "hindi",
+    "tamil",
+    "kannada",
+    "malayalam"
+  ],
+  "songs": [
+    {
+      "slug": "sooreede_from_salaar_cease_fire_telugu",
+      "canonical_title": "Sooreede (From \"Salaar Cease Fire - Telugu\")",
+      "approx_duration_sec": 198,
+      "versions": {
+        "telugu": {
+          "title": "Sooreede (From \"Salaar Cease Fire - Telugu\")",
+          "id": "XQ1WirKu",
+          "duration_sec": 198,
+          "singers": "",
+          "album": "Salaar Cease Fire - Telugu"
+        },
+        "hindi": {
+          "title": "Sooraj Hi Chhaon Banke (From \"Salaar Cease Fire - Hindi\")",
+          "id": "JQGRU33q",
+          "duration_sec": 198,
+          "singers": "",
+          "album": "Salaar Cease Fire - Hindi"
+        },
+        "tamil": {
+          "title": "Suriyan Kudaiya Neetti (From \"Salaar Cease Fire - Tamil\")",
+          "id": "iXkCyEsh",
+          "duration_sec": 198,
+          "singers": "",
+          "album": "Salaar Cease Fire - Tamil"
+        },
+        "kannada": {
+          "title": "Aakaasha Gadiya (From \"Salaar Cease Fire - Kannada\")",
+          "id": "y2myn02T",
+          "duration_sec": 198,
+          "singers": "",
+          "album": "Salaar Cease Fire - Kannada"
+        },
+        "malayalam": {
+          "title": "Suryangam (From \"Salaar Cease Fire - Malayalam\")",
+          "id": "e5KcFhft",
+          "duration_sec": 198,
+          "singers": "",
+          "album": "Salaar Cease Fire - Malayalam"
+        }
+      }
+    },
+    {
+      "slug": "prathi_gaadhalo_from_salaar_cease_fire_telugu",
+      "canonical_title": "Prathi Gaadhalo (From \"Salaar Cease Fire - Telugu\")",
+      "approx_duration_sec": 187,
+      "versions": {
+        "telugu": {
+          "title": "Prathi Gaadhalo (From \"Salaar Cease Fire - Telugu\")",
+          "id": "ziLNwR9Z",
+          "duration_sec": 187,
+          "singers": "",
+          "album": "Salaar Cease Fire - Telugu"
+        },
+        "hindi": {
+          "title": "Qissonmein (From \"Salaar Cease Fire - Hindi\")",
+          "id": "OcJr_ne3",
+          "duration_sec": 187,
+          "singers": "",
+          "album": "Salaar Cease Fire - Hindi"
+        },
+        "tamil": {
+          "title": "Pala Kadhaiyil (From \"Salaar Cease Fire - Tamil\")",
+          "id": "xytbInO2",
+          "duration_sec": 187,
+          "singers": "",
+          "album": "Salaar Cease Fire - Tamil"
+        },
+        "kannada": {
+          "title": "Prathikatheya (From \"Salaar Cease Fire - Kannada\")",
+          "id": "GIbyZol_",
+          "duration_sec": 187,
+          "singers": "",
+          "album": "Salaar Cease Fire - Kannada"
+        },
+        "malayalam": {
+          "title": "Prathikaramo (From \"Salaar Cease Fire - Malayalam\")",
+          "id": "AKQTAcyc",
+          "duration_sec": 187,
+          "singers": "",
+          "album": "Salaar Cease Fire - Malayalam"
+        }
+      }
+    },
+    {
+      "slug": "vinaraa_from_salaar_cease_fire_telugu",
+      "canonical_title": "Vinaraa (From \"Salaar Cease Fire - Telugu\")",
+      "approx_duration_sec": 195,
+      "versions": {
+        "telugu": {
+          "title": "Vinaraa (From \"Salaar Cease Fire - Telugu\")",
+          "id": "68YCytEz",
+          "duration_sec": 195,
+          "singers": "",
+          "album": "Salaar Cease Fire - Telugu"
+        },
+        "hindi": {
+          "title": "Yaraa (From \"Salaar Cease Fire - Hindi\")",
+          "id": "YfNCywbi",
+          "duration_sec": 195,
+          "singers": "",
+          "album": "Salaar Cease Fire - Hindi"
+        },
+        "tamil": {
+          "title": "Arivaai (From \"Salaar Cease Fire - Tamil\")",
+          "id": "VhMUuDnA",
+          "duration_sec": 195,
+          "singers": "",
+          "album": "Salaar Cease Fire - Tamil"
+        },
+        "kannada": {
+          "title": "Geleya (From \"Salaar Cease Fire - Kannada\")",
+          "id": "NxgqWyJP",
+          "duration_sec": 195,
+          "singers": "",
+          "album": "Salaar Cease Fire - Kannada"
+        },
+        "malayalam": {
+          "title": "Varamaay (From \"Salaar Cease Fire - Malayalam\")",
+          "id": "K-501qTk",
+          "duration_sec": 195,
+          "singers": "",
+          "album": "Salaar Cease Fire - Malayalam"
+        }
+      }
+    },
+    {
+      "slug": "aaru_sethulunnaa_from_salaar_cease_fire_telugu",
+      "canonical_title": "Aaru Sethulunnaa (From \"Salaar Cease Fire - Telugu\")",
+      "approx_duration_sec": 97,
+      "versions": {
+        "telugu": {
+          "title": "Aaru Sethulunnaa (From \"Salaar Cease Fire - Telugu\")",
+          "id": "82OR4fjs",
+          "duration_sec": 97,
+          "singers": "",
+          "album": "Salaar Cease Fire - Telugu"
+        },
+        "hindi": {
+          "title": "Kaali Maa (From \"Salaar Cease Fire - Hindi\")",
+          "id": "PUgXNnd0",
+          "duration_sec": 97,
+          "singers": "",
+          "album": "Salaar Cease Fire - Hindi"
+        },
+        "tamil": {
+          "title": "Aaru Kaiyi (From \"Salaar Cease Fire - Tamil\")",
+          "id": "MBGQC8Ar",
+          "duration_sec": 97,
+          "singers": "",
+          "album": "Salaar Cease Fire - Tamil"
+        },
+        "kannada": {
+          "title": "Aru Katti (From \"Salaar Cease Fire - Kannada\")",
+          "id": "Grdf_sxM",
+          "duration_sec": 97,
+          "singers": "",
+          "album": "Salaar Cease Fire - Kannada"
+        },
+        "malayalam": {
+          "title": "Aaru Kaikal (From \"Salaar Cease Fire - Malayalam\")",
+          "id": "U_WfwE7b",
+          "duration_sec": 97,
+          "singers": "",
+          "album": "Salaar Cease Fire - Malayalam"
+        }
+      }
+    },
+    {
+      "slug": "sound_of_salaar_from_salaar_cease_fire",
+      "canonical_title": "Sound of Salaar (From \"Salaar Cease Fire\")",
+      "approx_duration_sec": 175,
+      "versions": {
+        "telugu": {
+          "title": "Sound of Salaar (From \"Salaar Cease Fire\")",
+          "id": "273VBtnr",
+          "duration_sec": 175,
+          "singers": "",
+          "album": "Salaar Cease Fire - Telugu"
+        },
+        "hindi": {
+          "title": "Sound of Salaar (From \"Salaar Cease Fire\")",
+          "id": "kKFM7A3P",
+          "duration_sec": 175,
+          "singers": "",
+          "album": "Salaar Cease Fire - Hindi"
+        },
+        "tamil": {
+          "title": "Sound of Salaar (From \"Salaar Cease Fire\")",
+          "id": "erIhfJGB",
+          "duration_sec": 175,
+          "singers": "",
+          "album": "Salaar Cease Fire - Tamil"
+        },
+        "kannada": {
+          "title": "Sound of Salaar (From \"Salaar Cease Fire\")",
+          "id": "wUCz8rIu",
+          "duration_sec": 175,
+          "singers": "",
+          "album": "Salaar Cease Fire - Kannada"
+        },
+        "malayalam": {
+          "title": "Sound of Salaar (From \"Salaar Cease Fire\")",
+          "id": "KYiqYzrj",
+          "duration_sec": 175,
+          "singers": "",
+          "album": "Salaar Cease Fire - Malayalam"
+        }
+      }
+    },
+    {
+      "slug": "salaar_cease_fire_telugu_trailer_theme_from_salaar_cease_fire_telugu_trailer",
+      "canonical_title": "Salaar Cease Fire Telugu Trailer Theme (From \"Salaar Cease Fire Telugu Trailer\")",
+      "approx_duration_sec": 228,
+      "versions": {
+        "telugu": {
+          "title": "Salaar Cease Fire Telugu Trailer Theme (From \"Salaar Cease Fire Telugu Trailer\")",
+          "id": "iduEJycG",
+          "duration_sec": 228,
+          "singers": "",
+          "album": "Salaar Cease Fire - Telugu"
+        },
+        "hindi": {
+          "title": "Salaar Cease Fire Hindi Trailer Theme (From \"Salaar Cease Fire Hindi Trailer\")",
+          "id": "N5I5zILA",
+          "duration_sec": 228,
+          "singers": "",
+          "album": "Salaar Cease Fire - Hindi"
+        },
+        "tamil": {
+          "title": "Salaar Cease Fire Tamil Trailer Theme (From \"Salaar Cease Fire Tamil Trailer\")",
+          "id": "IECk9TLN",
+          "duration_sec": 228,
+          "singers": "",
+          "album": "Salaar Cease Fire - Tamil"
+        },
+        "kannada": {
+          "title": "Salaar Cease Fire Kannada Trailer Theme (From \"Salaar Cease Fire Kannada Trailer\")",
+          "id": "qJ2uCdCg",
+          "duration_sec": 228,
+          "singers": "",
+          "album": "Salaar Cease Fire - Kannada"
+        },
+        "malayalam": {
+          "title": "Salaar Cease Fire Malayalam Trailer Theme (From \"Salaar Cease Fire Malayalam Trailer\")",
+          "id": "yHA1bs5Z",
+          "duration_sec": 228,
+          "singers": "",
+          "album": "Salaar Cease Fire - Malayalam"
+        }
+      }
+    },
+    {
+      "slug": "salaar_final_punch_from_salaar_cease_fire_telugu_trailer",
+      "canonical_title": "Salaar - Final Punch (From \"Salaar Cease Fire - Telugu Trailer\")",
+      "approx_duration_sec": 173,
+      "versions": {
+        "telugu": {
+          "title": "Salaar - Final Punch (From \"Salaar Cease Fire - Telugu Trailer\")",
+          "id": "lnAPX32l",
+          "duration_sec": 173,
+          "singers": "",
+          "album": "Salaar Cease Fire - Telugu"
+        },
+        "hindi": {
+          "title": "Salaar - Final Punch (From \"Salaar Cease Fire - Hindi Trailer\")",
+          "id": "UJHVoEK1",
+          "duration_sec": 173,
+          "singers": "",
+          "album": "Salaar Cease Fire - Hindi"
+        },
+        "tamil": {
+          "title": "Salaar - Final Punch (From \"Salaar Cease Fire - Tamil Trailer\")",
+          "id": "iNuW-wH9",
+          "duration_sec": 173,
+          "singers": "",
+          "album": "Salaar Cease Fire - Tamil"
+        },
+        "kannada": {
+          "title": "Salaar - Final Punch (From \"Salaar Cease Fire - Kannada Trailer\")",
+          "id": "kmmou_5G",
+          "duration_sec": 173,
+          "singers": "",
+          "album": "Salaar Cease Fire - Kannada"
+        },
+        "malayalam": {
+          "title": "Salaar - Final Punch (From \"Salaar Cease Fire - Malayalam Trailer\")",
+          "id": "CN0vHs5E",
+          "duration_sec": 173,
+          "singers": "",
+          "album": "Salaar Cease Fire - Malayalam"
+        }
+      }
+    }
+  ]
+}

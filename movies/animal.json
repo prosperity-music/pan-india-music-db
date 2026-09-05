@@ -1,0 +1,153 @@
+{
+  "movie": "Animal",
+  "movie_slug": "animal",
+  "year": 2023,
+  "music_director": "Pritam",
+  "languages": [
+    "hindi",
+    "telugu",
+    "tamil"
+  ],
+  "songs": [
+    {
+      "slug": "arjan_vailly",
+      "canonical_title": "Arjan Vailly",
+      "approx_duration_sec": 182,
+      "versions": {
+        "hindi": {
+          "title": "Arjan Vailly",
+          "id": "pn0aq27z",
+          "duration_sec": 182,
+          "singers": "",
+          "album": "ANIMAL"
+        }
+      }
+    },
+    {
+      "slug": "hua_main",
+      "canonical_title": "Hua Main",
+      "approx_duration_sec": 277,
+      "versions": {
+        "hindi": {
+          "title": "Hua Main",
+          "id": "f7lm7odd",
+          "duration_sec": 277,
+          "singers": "",
+          "album": "ANIMAL"
+        },
+        "telugu": {
+          "title": "Ammayi (From \"ANIMAL\") [Telugu]",
+          "id": "jrxwYoya",
+          "duration_sec": 275,
+          "singers": "",
+          "album": "Ammayi (From &quot;ANIMAL&quot;) [Telugu]"
+        },
+        "tamil": {
+          "title": "Pogaadhe (From \"ANIMAL\") - Tamil",
+          "id": "o4TD1vv6",
+          "duration_sec": 271,
+          "singers": "",
+          "album": "Pogaadhe (From &quot;ANIMAL&quot;) - Tamil"
+        }
+      }
+    },
+    {
+      "slug": "satranga",
+      "canonical_title": "Satranga",
+      "approx_duration_sec": 271,
+      "versions": {
+        "hindi": {
+          "title": "Satranga",
+          "id": "4mHUvJ4u",
+          "duration_sec": 271,
+          "singers": "",
+          "album": "ANIMAL"
+        },
+        "telugu": {
+          "title": "Ammayi (From \"ANIMAL\") [Telugu]",
+          "id": "jrxwYoya",
+          "duration_sec": 275,
+          "singers": "",
+          "album": "Ammayi (From &quot;ANIMAL&quot;) [Telugu]"
+        },
+        "tamil": {
+          "title": "Pogaadhe (From \"ANIMAL\") - Tamil",
+          "id": "o4TD1vv6",
+          "duration_sec": 271,
+          "singers": "",
+          "album": "Pogaadhe (From &quot;ANIMAL&quot;) - Tamil"
+        }
+      }
+    },
+    {
+      "slug": "papa_meri_jaan",
+      "canonical_title": "Papa Meri Jaan",
+      "approx_duration_sec": 321,
+      "versions": {
+        "hindi": {
+          "title": "Papa Meri Jaan",
+          "id": "m6kttHYV",
+          "duration_sec": 321,
+          "singers": "",
+          "album": "ANIMAL"
+        }
+      }
+    },
+    {
+      "slug": "pehle_bhi_main",
+      "canonical_title": "Pehle Bhi Main",
+      "approx_duration_sec": 250,
+      "versions": {
+        "hindi": {
+          "title": "Pehle Bhi Main",
+          "id": "1e0En7YX",
+          "duration_sec": 250,
+          "singers": "",
+          "album": "ANIMAL"
+        }
+      }
+    },
+    {
+      "slug": "kashmir",
+      "canonical_title": "Kashmir",
+      "approx_duration_sec": 216,
+      "versions": {
+        "hindi": {
+          "title": "Kashmir",
+          "id": "rcn1c_PH",
+          "duration_sec": 216,
+          "singers": "",
+          "album": "ANIMAL"
+        }
+      }
+    },
+    {
+      "slug": "saari_duniya_jalaa_denge",
+      "canonical_title": "Saari Duniya Jalaa Denge",
+      "approx_duration_sec": 182,
+      "versions": {
+        "hindi": {
+          "title": "Saari Duniya Jalaa Denge",
+          "id": "G6r91Mgl",
+          "duration_sec": 182,
+          "singers": "",
+          "album": "ANIMAL"
+        }
+      }
+    },
+    {
+      "slug": "haiwaan",
+      "canonical_title": "Haiwaan",
+      "approx_duration_sec": 162,
+      "versions": {
+        "hindi": {
+          "title": "Haiwaan",
+          "id": "n70g8LJw",
+          "duration_sec": 162,
+          "singers": "",
+          "album": "ANIMAL"
+        }
+      }
+    }
+  ]
+}
