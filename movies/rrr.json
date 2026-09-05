@@ -10,8 +10,8 @@
     "kannada",
     "malayalam"
   ],
-  "songs": [
-    {
+  "songs": {
+    "0": {
       "slug": "dosti",
       "canonical_title": "Dosti",
       "approx_duration_sec": 340,
@@ -53,7 +53,7 @@
         }
       }
     },
-    {
+    "1": {
       "slug": "naatu_naatu",
       "canonical_title": "Naatu Naatu",
       "approx_duration_sec": 214,
@@ -95,7 +95,7 @@
         }
       }
     },
-    {
+    "2": {
       "slug": "janani",
       "canonical_title": "Janani",
       "approx_duration_sec": 188,
@@ -137,7 +137,7 @@
         }
       }
     },
-    {
+    "3": {
       "slug": "komuram_bheemudo",
       "canonical_title": "Komuram Bheemudo",
       "approx_duration_sec": 254,
@@ -179,7 +179,7 @@
         }
       }
     },
-    {
+    "4": {
       "slug": "raamam_raaghavam",
       "canonical_title": "Raamam Raaghavam",
       "approx_duration_sec": 231,
@@ -221,7 +221,7 @@
         }
       }
     },
-    {
+    "5": {
       "slug": "etthara_jenda",
       "canonical_title": "Etthara Jenda",
       "approx_duration_sec": 262,
@@ -263,7 +263,7 @@
         }
       }
     },
-    {
+    "6": {
       "slug": "komma_uyyala",
       "canonical_title": "Komma Uyyala",
       "approx_duration_sec": 284,
@@ -304,6 +304,91 @@
           "album": "RRR - Malayalam"
         }
       }
+    },
+    "7": {
+      "slug": "sholay",
+      "canonical_title": "Sholay",
+      "approx_duration_sec": 256,
+      "versions": {
+        "hindi": {
+          "title": "Sholay",
+          "id": "VZAh-9LH",
+          "duration_sec": 256,
+          "singers": "Vishal Mishra, Benny Dayal, Sahithi Chaganti, Harika Narayan",
+          "album": "RRR"
+        },
+        "telugu": {
+          "title": "Etthara Jenda",
+          "id": "I5qUtDwm",
+          "duration_sec": 262,
+          "singers": "Vishal Mishra, Prudhvi Chandra, M M Keeravaani, Sahithi Chaganti, Harika Narayan",
+          "album": "RRR - Telugu"
+        },
+        "tamil": {
+          "title": "Koelae",
+          "id": "cyFqMtD-",
+          "duration_sec": 256,
+          "singers": "Vishal Mishra, Benny Dayal, Sahithi Chaganti, Harika Narayan",
+          "album": "RRR - Tamil"
+        },
+        "kannada": {
+          "title": "Etthuva Jenda",
+          "id": "li_Bped9",
+          "duration_sec": 256,
+          "singers": "Prudhvi Chandra, Hymath Mohammed, Sahithi Chaganti, Harika Narayan",
+          "album": "RRR - Kannada"
+        },
+        "malayalam": {
+          "title": "Etthuka Jenda",
+          "id": "KD1yyuZB",
+          "duration_sec": 256,
+          "singers": "Vijay Yesudas, Harishankar, Sahithi Chaganti, Harika Narayan",
+          "album": "RRR - Malayalam"
+        }
+      }
+    },
+    "8": {
+      "slug": "naacho_naacho",
+      "canonical_title": "Naacho Naacho",
+      "approx_duration_sec": 214,
+      "versions": {
+        "hindi": {
+          "title": "Naacho Naacho",
+          "id": "Bi08z-lZ",
+          "duration_sec": 214,
+          "singers": "Vishal Mishra, Rahul Sipligunj",
+          "album": "RRR"
+        },
+        "telugu": {
+          "title": "Naatu Naatu",
+          "id": "-JkPBIE7",
+          "duration_sec": 214,
+          "singers": "Rahul Sipligunj, Kaala Bhairava",
+          "album": "RRR - Telugu"
+        },
+        "tamil": {
+          "title": "Naattu Koothu",
+          "id": "Lihwbw5R",
+          "duration_sec": 214,
+          "singers": "Rahul Sipligunj, Yazin Nizar",
+          "album": "RRR - Tamil"
+        },
+        "kannada": {
+          "title": "Halli Naatu",
+          "id": "cKHHwHUS",
+          "duration_sec": 214,
+          "singers": "Rahul Sipligunj, Kaala Bhairava",
+          "album": "RRR - Kannada"
+        },
+        "malayalam": {
+          "title": "Karinthol",
+          "id": "j2mBTgHy",
+          "duration_sec": 214,
+          "singers": "KS Harisankar, Yazin Nizar",
+          "album": "RRR - Malayalam"
+        }
+      }
     }
-  ]
+  },
+  "updated_at": "2026-09-05T12:26:03.144Z"
 }
