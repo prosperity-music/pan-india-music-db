@@ -78,6 +78,46 @@
           "album": "Bahubali 2 - The Conclusion"
         }
       }
+    },
+    {
+      "slug": "mukil_varna_mukunda",
+      "canonical_title": "Mukil Varna Mukunda",
+      "approx_duration_sec": 295,
+      "versions": {
+        "malayalam": {
+          "title": "Mukil Varna Mukunda",
+          "id": "0qH0EKJj",
+          "duration_sec": 295,
+          "singers": "Swetha Mohan",
+          "album": "Bahubali 2 - The Conclusion",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7JGwF0zhX9oItt9901OvB5/video/e681c1b1b36641dab22205d945185aed.cnvs.mp4"
+        },
+        "hindi": {
+          "title": "Soja Zara",
+          "id": "IlwQXH6o",
+          "duration_sec": 296,
+          "singers": "Manoj Muntashir, Madhushree",
+          "album": "Baahubali 2 - The Conclusion",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7JGwF0zhX9oItt9901OvB5/video/e681c1b1b36641dab22205d945185aed.cnvs.mp4"
+        },
+        "telugu": {
+          "title": "Kannaa Nidurinchara",
+          "id": "UibKG-23",
+          "duration_sec": 298,
+          "singers": "Sreenidhi, V. Srisoumya",
+          "album": "Baahubali 2 - The Conclusion (Telugu)",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/59X2UmUct9nybAHTxN3NVK/video/1966aba221d445608dbdd0b3a88c5d1d.cnvs.mp4"
+        },
+        "tamil": {
+          "title": "Kanna Nee Thoongadaa",
+          "id": "ytl72YHA",
+          "duration_sec": 293,
+          "singers": "Nayana Nair",
+          "album": "Baahubali 2 - The Conclusion ( Tamil )",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/59X2UmUct9nybAHTxN3NVK/video/46d3795aabe040cfa5fa7e36b4fde591.cnvs.mp4"
+        }
+      }
     }
-  ]
+  ],
+  "updated_at": "2026-09-05T14:28:48.294Z"
 }
