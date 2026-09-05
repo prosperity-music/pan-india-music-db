@@ -1,0 +1,48 @@
+{
+  "movie": "Pushpa 2 The Rule - (Telugu)",
+  "movie_slug": "pushpa_2",
+  "year": 2026,
+  "languages": [
+    "telugu",
+    "hindi",
+    "tamil",
+    "malayalam"
+  ],
+  "songs": [
+    {
+      "slug": "peelings_telugu_",
+      "canonical_title": "Peelings (Telugu)",
+      "approx_duration_sec": 247,
+      "versions": {
+        "telugu": {
+          "title": "Peelings (Telugu)",
+          "id": "fxuoxZ18",
+          "duration_sec": 247,
+          "singers": "Javed Ali, Madhubanti Bagchi",
+          "album": "Pushpa 2 The Rule - (Telugu)"
+        },
+        "hindi": {
+          "title": "Peelings",
+          "id": "ya00FZxH",
+          "duration_sec": 247,
+          "singers": "Devi Sri Prasad, Javed Ali, Madhubanti Bagchi, Raqueeb Alam, Siju Thuravoor",
+          "album": "Pushpa 2 The Rule"
+        },
+        "tamil": {
+          "title": "Peelings (From \"Pushpa 2 The Rule\")",
+          "id": "3E2O_F3e",
+          "duration_sec": 247,
+          "singers": "Senthil Ganesh, Rajalakshmi, Devi Sri Prasad",
+          "album": "Peelings (From \"Pushpa 2 The Rule\") (Tamil)"
+        },
+        "malayalam": {
+          "title": "Peelings (Malayalam)",
+          "id": "zbvXqs1N",
+          "duration_sec": 247,
+          "singers": "Pranavam Sasi, Sithara Krishnakumar",
+          "album": "Pushpa 2 The Rule - (Malayalam)"
+        }
+      }
+    }
+  ]
+}
