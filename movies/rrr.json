@@ -353,17 +353,17 @@
       "approx_duration_sec": 214,
       "versions": {
         "hindi": {
-          "title": "Naacho Naacho",
-          "id": "Bi08z-lZ",
-          "duration_sec": 214,
-          "singers": "Vishal Mishra, Rahul Sipligunj",
+          "title": "Dosti",
+          "id": "-NxrT3GL",
+          "duration_sec": 340,
+          "singers": "Amit Trivedi",
           "album": "RRR"
         },
         "telugu": {
-          "title": "Naatu Naatu",
-          "id": "-JkPBIE7",
-          "duration_sec": 214,
-          "singers": "Rahul Sipligunj, Kaala Bhairava",
+          "title": "Dosti",
+          "id": "OrwH7d7i",
+          "duration_sec": 340,
+          "singers": "Hemachandra",
           "album": "RRR - Telugu"
         },
         "tamil": {
@@ -390,5 +390,5 @@
       }
     }
   },
-  "updated_at": "2026-09-05T12:26:03.144Z"
+  "updated_at": "2026-09-05T12:30:21.275Z"
 }
