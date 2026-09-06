@@ -18,7 +18,7 @@
           "title": "Ala Bolelo (From \"Rajini The Jailer 2\")",
           "id": "M-4aspTU",
           "duration_sec": 240,
-          "singers": "Anirudh Ravichander, Ritesh G Rao, Srinivasa Mouli",
+          "singers": "Anirudh Ravichander, Ritesh G Rao",
           "album": "Ala Bolelo (From \"Rajini The Jailer 2\")",
           "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/5689e50976ff490b967c8fe2ccda8a3f.cnvs.mp4"
         },
@@ -40,5 +40,6 @@
         }
       }
     }
-  ]
+  ],
+  "updated_at": "2026-09-06T18:02:44.176Z"
 }
