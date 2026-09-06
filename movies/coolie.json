@@ -38,10 +38,10 @@
           "duration_sec": 206,
           "singers": "Anirudh Ravichander, Arivu",
           "album": "Powerhouse (From \"Coolie\") (Tamil)",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/a32e07484a3441499e6dcf6636cad355.cnvs.mp4",
           "alt_ids": [
             "oALPDLfF"
-          ],
-          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/a32e07484a3441499e6dcf6636cad355.cnvs.mp4"
+          ]
         },
         "telugu": {
           "title": "Powerhouse (From \"Coolie\") (Telugu)",
@@ -49,10 +49,10 @@
           "duration_sec": 206,
           "singers": "Arivu, Anirudh Ravichander, Rambabu Gosala",
           "album": "Powerhouse (From \"Coolie\") (Telugu)",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/a32e07484a3441499e6dcf6636cad355.cnvs.mp4",
           "alt_ids": [
             "BH0utDZV"
-          ],
-          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/a32e07484a3441499e6dcf6636cad355.cnvs.mp4"
+          ]
         },
         "hindi": {
           "title": "Powerhouse (From \"Coolie The Powerhouse\") (Hindi)",
@@ -60,13 +60,13 @@
           "duration_sec": 206,
           "singers": "Arivu, Kumaar, Anirudh Ravichander",
           "album": "Powerhouse (From \"Coolie The Powerhouse\") (Hindi)",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/a32e07484a3441499e6dcf6636cad355.cnvs.mp4",
           "alt_ids": [
             "kB34yCDw"
-          ],
-          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/a32e07484a3441499e6dcf6636cad355.cnvs.mp4"
+          ]
         }
       }
     }
   ],
-  "updated_at": "2026-09-06T21:30:30.187Z"
+  "updated_at": "2026-09-06T21:30:51.880Z"
 }
