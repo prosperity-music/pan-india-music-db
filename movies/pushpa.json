@@ -1,0 +1,71 @@
+{
+  "movie": "Pushpa The Rise",
+  "movie_slug": "pushpa",
+  "year": 2026,
+  "languages": [
+    "hindi",
+    "telugu",
+    "tamil",
+    "kannada",
+    "malayalam",
+    "bengali"
+  ],
+  "songs": [
+    {
+      "slug": "oo_bolega_ya_oo_oo_bolega",
+      "canonical_title": "Oo Bolega Ya Oo Oo Bolega",
+      "approx_duration_sec": 226,
+      "contributed_by": "iamprajwal.in",
+      "versions": {
+        "hindi": {
+          "title": "Oo Bolega Ya Oo Oo Bolega",
+          "id": "aRgGMLHb",
+          "duration_sec": 226,
+          "singers": "Kanika Kapoor",
+          "album": "Pushpa The Rise Part - 01",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/284wjPe2I6DPOunAfPETz6/video/729cebe2d7ea4f9882ada3f635258fec.cnvs.mp4"
+        },
+        "telugu": {
+          "title": "Oo Antava Oo Oo Antava",
+          "id": "QOaKBiVi",
+          "duration_sec": 223,
+          "singers": "Indravathi Chauhan",
+          "album": "Pushpa - The Rise",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/284wjPe2I6DPOunAfPETz6/video/729cebe2d7ea4f9882ada3f635258fec.cnvs.mp4"
+        },
+        "tamil": {
+          "title": "Oo Solriya Oo Oo Solriya",
+          "id": "NmkwfzYX",
+          "duration_sec": 223,
+          "singers": "Andrea Jeremiah",
+          "album": "Pushpa - The Rise",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/284wjPe2I6DPOunAfPETz6/video/729cebe2d7ea4f9882ada3f635258fec.cnvs.mp4"
+        },
+        "kannada": {
+          "title": "Oo Anthiya Oo Oo Anthiya",
+          "id": "JazMzdTc",
+          "duration_sec": 223,
+          "singers": "Mangli",
+          "album": "Pushpa - The Rise",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/284wjPe2I6DPOunAfPETz6/video/729cebe2d7ea4f9882ada3f635258fec.cnvs.mp4"
+        },
+        "malayalam": {
+          "title": "Oo Chollunno Oo Oo Chollunno",
+          "id": "5qued9yl",
+          "duration_sec": 224,
+          "singers": "Ramya Nambessan",
+          "album": "Pushpa - The Rise",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/284wjPe2I6DPOunAfPETz6/video/729cebe2d7ea4f9882ada3f635258fec.cnvs.mp4"
+        },
+        "bengali": {
+          "title": "Oo Bawlo Thik Kina Bengali Version",
+          "id": "ylsPw3Bw",
+          "duration_sec": 217,
+          "singers": "Usha Uthup",
+          "album": "Pushpa - The Rise",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/284wjPe2I6DPOunAfPETz6/video/729cebe2d7ea4f9882ada3f635258fec.cnvs.mp4"
+        }
+      }
+    }
+  ]
+}
