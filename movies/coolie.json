@@ -1,0 +1,44 @@
+{
+  "movie": "Coolie",
+  "movie_slug": "coolie",
+  "year": 2026,
+  "languages": [
+    "telugu",
+    "tamil",
+    "hindi"
+  ],
+  "songs": [
+    {
+      "slug": "monica",
+      "canonical_title": "Monica",
+      "approx_duration_sec": 191,
+      "contributed_by": "iamprajwal.in",
+      "versions": {
+        "telugu": {
+          "title": "Monica (From \"Coolie\") (Telugu)",
+          "id": "kGxUbCJB",
+          "duration_sec": 188,
+          "singers": "Anirudh Ravichander, Sublahshini, Krishna Kanth, Asal Kolaar",
+          "album": "Monica (From \"Coolie\") (Telugu)",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/dff8a124e6e646c5a39ef4708a480e3f.cnvs.mp4"
+        },
+        "tamil": {
+          "title": "Monica (From \"Coolie\") (Tamil)",
+          "id": "UqBtaUhw",
+          "duration_sec": 217,
+          "singers": "Anirudh Ravichander, Sublahshini, Asal Kolaar, Vishnu Edavan",
+          "album": "Monica (From \"Coolie\") (Tamil)",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/dff8a124e6e646c5a39ef4708a480e3f.cnvs.mp4"
+        },
+        "hindi": {
+          "title": "Monica (From \"Coolie The Powerhouse\") (Hindi)",
+          "id": "TZ6KdwmQ",
+          "duration_sec": 188,
+          "singers": "Anirudh Ravichander, Sublahshini, Kumaar",
+          "album": "Monica (From \"Coolie The Powerhouse\") (Hindi)",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/dff8a124e6e646c5a39ef4708a480e3f.cnvs.mp4"
+        }
+      }
+    }
+  ]
+}
