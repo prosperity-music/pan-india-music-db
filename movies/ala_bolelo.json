@@ -1,0 +1,44 @@
+{
+  "movie": "Ala Bolelo",
+  "movie_slug": "ala_bolelo",
+  "year": 2026,
+  "languages": [
+    "hindi",
+    "tamil",
+    "telugu"
+  ],
+  "songs": [
+    {
+      "slug": "ala_bolelo_from_rajini_the_jailer_2_",
+      "canonical_title": "Ala Bolelo (From \"Rajini The Jailer 2\")",
+      "approx_duration_sec": 240,
+      "contributed_by": "iamprajwal.in",
+      "versions": {
+        "hindi": {
+          "title": "Ala Bolelo (From \"Rajini The Jailer 2\")",
+          "id": "M-4aspTU",
+          "duration_sec": 240,
+          "singers": "Anirudh Ravichander, Ritesh G Rao, Srinivasa Mouli",
+          "album": "Ala Bolelo (From \"Rajini The Jailer 2\")",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/5689e50976ff490b967c8fe2ccda8a3f.cnvs.mp4"
+        },
+        "tamil": {
+          "title": "Ala Bolelo (From \"Jailer 2\")",
+          "id": "3h6F8ui8",
+          "duration_sec": 240,
+          "singers": "Anirudh Ravichander, Arunraja Kamaraj",
+          "album": "Ala Bolelo (From \"Jailer 2\")",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/5b99a1f853594c7892a730ea8f303a30.cnvs.mp4"
+        },
+        "telugu": {
+          "title": "Ala Bolelo (From \"Jailer 2\")",
+          "id": "-D0EECa0",
+          "duration_sec": 240,
+          "singers": "Anirudh Ravichander, Srinivasa Mouli",
+          "album": "Ala Bolelo (From \"Jailer 2\")",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/5b99a1f853594c7892a730ea8f303a30.cnvs.mp4"
+        }
+      }
+    }
+  ]
+}
