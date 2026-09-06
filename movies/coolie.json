@@ -1,0 +1,57 @@
+{
+  "movie": "Coolie",
+  "movie_slug": "coolie",
+  "year": 2026,
+  "languages": [
+    "malayalam",
+    "tamil",
+    "telugu",
+    "hindi",
+    "kannada"
+  ],
+  "songs": [
+    {
+      "slug": "powerhouse",
+      "canonical_title": "Powerhouse",
+      "approx_duration_sec": 206,
+      "contributed_by": "iamprajwal.in",
+      "versions": {
+        "malayalam": {
+          "title": "Powerhouse",
+          "id": "lpyg1GzF",
+          "duration_sec": 206,
+          "singers": "Dinker kalvala, Deepak Ram",
+          "album": "Coolie (Original Motion Picture Soundtrack)"
+        },
+        "tamil": {
+          "title": "Powerhouse",
+          "id": "oALPDLfF",
+          "duration_sec": 206,
+          "singers": "Anirudh Ravichander, Arivu",
+          "album": "Coolie (Original Motion Picture Soundtrack)"
+        },
+        "telugu": {
+          "title": "Powerhouse",
+          "id": "BH0utDZV",
+          "duration_sec": 206,
+          "singers": "Arivu, Anirudh Ravichander, Rambabu Gosala",
+          "album": "Coolie (Original Motion Picture Soundtrack)"
+        },
+        "hindi": {
+          "title": "Powerhouse",
+          "id": "kB34yCDw",
+          "duration_sec": 206,
+          "singers": "Arivu, Anirudh Ravichander, Kumaar",
+          "album": "Coolie The Powerhouse (Original Motion Picture Soundtrack)"
+        },
+        "kannada": {
+          "title": "Powerhouse",
+          "id": "uN1p5cfj",
+          "duration_sec": 206,
+          "singers": "Dinker kalvala, Kumaar",
+          "album": "Coolie (Original Motion Picture Soundtrack)"
+        }
+      }
+    }
+  ]
+}
