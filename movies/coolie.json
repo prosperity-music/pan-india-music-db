@@ -13,41 +13,44 @@
     {
       "slug": "monica",
       "canonical_title": "Monica",
-      "approx_duration_sec": 188,
+      "approx_duration_sec": 217,
       "contributed_by": "iamprajwal.in",
       "versions": {
         "telugu": {
-          "title": "Monica",
-          "id": "tr4vCIzU",
-          "alt_ids": [
-            "kGxUbCJB"
-          ],
+          "title": "Monica (From \"Coolie\") (Telugu)",
+          "id": "kGxUbCJB",
           "duration_sec": 188,
-          "singers": "Anirudh Ravichander, Sublahshini, Asal Kolaar, Krishna Kanth, Danny Smoke",
-          "album": "Coolie (Original Motion Picture Soundtrack)",
-          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/dff8a124e6e646c5a39ef4708a480e3f.cnvs.mp4"
+          "singers": "Anirudh Ravichander, Sublahshini, Krishna Kanth, Asal Kolaar",
+          "album": "Monica (From \"Coolie\") (Telugu)",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/dff8a124e6e646c5a39ef4708a480e3f.cnvs.mp4",
+          "alt_ids": [
+            "kGxUbCJB",
+            "tr4vCIzU"
+          ]
         },
         "tamil": {
-          "title": "Monica",
-          "id": "MYrooqI2",
-          "alt_ids": [
-            "UqBtaUhw"
-          ],
+          "title": "Monica (From \"Coolie\") (Tamil)",
+          "id": "UqBtaUhw",
           "duration_sec": 217,
           "singers": "Anirudh Ravichander, Sublahshini, Asal Kolaar, Vishnu Edavan",
-          "album": "Coolie (Original Motion Picture Soundtrack)",
-          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/dff8a124e6e646c5a39ef4708a480e3f.cnvs.mp4"
+          "album": "Monica (From \"Coolie\") (Tamil)",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/dff8a124e6e646c5a39ef4708a480e3f.cnvs.mp4",
+          "alt_ids": [
+            "UqBtaUhw",
+            "MYrooqI2"
+          ]
         },
         "hindi": {
-          "title": "Monica",
-          "id": "V_HOKQfq",
-          "alt_ids": [
-            "TZ6KdwmQ"
-          ],
+          "title": "Monica (From \"Coolie The Powerhouse\") (Hindi)",
+          "id": "TZ6KdwmQ",
           "duration_sec": 188,
-          "singers": "Anirudh Ravichander, Sublahshini, Asal Kolaar, Kumaar",
-          "album": "Coolie The Powerhouse (Original Motion Picture Soundtrack)",
-          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/dff8a124e6e646c5a39ef4708a480e3f.cnvs.mp4"
+          "singers": "Anirudh Ravichander, Sublahshini, Kumaar",
+          "album": "Monica (From \"Coolie The Powerhouse\") (Hindi)",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/dff8a124e6e646c5a39ef4708a480e3f.cnvs.mp4",
+          "alt_ids": [
+            "TZ6KdwmQ",
+            "V_HOKQfq"
+          ]
         },
         "kannada": {
           "title": "Monica",
@@ -173,5 +176,5 @@
       }
     }
   ],
-  "updated_at": "2026-09-06T21:53:29.930Z"
+  "updated_at": "2026-09-06T22:17:23.251Z"
 }
