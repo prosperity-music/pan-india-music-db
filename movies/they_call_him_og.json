@@ -1,0 +1,62 @@
+{
+  "movie": "They Call Him OG",
+  "movie_slug": "they_call_him_og",
+  "year": 2026,
+  "languages": [
+    "hindi",
+    "telugu",
+    "tamil",
+    "kannada",
+    "malayalam"
+  ],
+  "songs": [
+    {
+      "slug": "guns_and_roses",
+      "canonical_title": "Guns And Roses",
+      "approx_duration_sec": 253,
+      "contributed_by": "iamprajwal.in",
+      "versions": {
+        "hindi": {
+          "title": "Guns And Roses",
+          "id": "7GQqpar6",
+          "duration_sec": 253,
+          "singers": "Thaman S, Ritesh G Rao, Saatvik G Rao, M. Prasad Babu, Adviteeya Vojjala, Harsha Darivemula",
+          "album": "They Call Him OG (Hindi)",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/5bSw7fRotCnRCcO9br14W5/video/cdbde8b74410409387beed9ec8d16f4d.cnvs.mp4"
+        },
+        "telugu": {
+          "title": "Guns and Roses",
+          "id": "Wl20L1AB",
+          "duration_sec": 253,
+          "singers": "Harsha Darivemula, Thaman S",
+          "album": "They Call Him OG",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/5bSw7fRotCnRCcO9br14W5/video/cdbde8b74410409387beed9ec8d16f4d.cnvs.mp4"
+        },
+        "tamil": {
+          "title": "Guns and Roses",
+          "id": "Bg76pIFj",
+          "duration_sec": 253,
+          "singers": "Thaman S, Deepak Blue, Aravind Srinivas, Shenbagaraj Ganesalingam, D. Mohan Kumar",
+          "album": "They Call Him OG (Tamil)",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/5bSw7fRotCnRCcO9br14W5/video/cdbde8b74410409387beed9ec8d16f4d.cnvs.mp4"
+        },
+        "kannada": {
+          "title": "Guns and Roses",
+          "id": "olU3fUnm",
+          "duration_sec": 253,
+          "singers": "Thaman S, Bhavani Rakesh, Siddharth Shandilyasa, Srinath Komanduri, Vishak Nagalapura, Adviteeya Vojjala",
+          "album": "They Call Him OG (Kannada)",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/5bSw7fRotCnRCcO9br14W5/video/cdbde8b74410409387beed9ec8d16f4d.cnvs.mp4"
+        },
+        "malayalam": {
+          "title": "Guns and Roses",
+          "id": "TwRj0K-k",
+          "duration_sec": 253,
+          "singers": "Thaman S, Arjun Vijay, Srinath Komanduri, Nanda Kishore, Kailas Rishi, Adviteeya Vojjala",
+          "album": "They Call Him OG (Malayalam)",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/5bSw7fRotCnRCcO9br14W5/video/cdbde8b74410409387beed9ec8d16f4d.cnvs.mp4"
+        }
+      }
+    }
+  ]
+}
