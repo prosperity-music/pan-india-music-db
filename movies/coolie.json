@@ -3,10 +3,10 @@
   "movie_slug": "coolie",
   "year": 2026,
   "languages": [
-    "telugu",
+    "tamil",
     "kannada",
     "malayalam",
-    "tamil",
+    "telugu",
     "hindi"
   ],
   "songs": [
@@ -16,11 +16,14 @@
       "approx_duration_sec": 206,
       "contributed_by": "iamprajwal.in",
       "versions": {
-        "telugu": {
+        "tamil": {
           "title": "Powerhouse",
-          "id": "BH0utDZV",
+          "id": "oALPDLfF",
+          "alt_ids": [
+            "OjIzI3Gd"
+          ],
           "duration_sec": 206,
-          "singers": "Arivu, Anirudh Ravichander, Rambabu Gosala",
+          "singers": "Jumpin' Jimes",
           "album": "Coolie (Original Motion Picture Soundtrack)",
           "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/a32e07484a3441499e6dcf6636cad355.cnvs.mp4"
         },
@@ -40,23 +43,87 @@
           "album": "Coolie (Original Motion Picture Soundtrack)",
           "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/a32e07484a3441499e6dcf6636cad355.cnvs.mp4"
         },
-        "tamil": {
+        "telugu": {
           "title": "Powerhouse",
-          "id": "oALPDLfF",
+          "id": "BH0utDZV",
+          "alt_ids": [
+            "2lEjF4gm"
+          ],
           "duration_sec": 206,
-          "singers": "Anirudh Ravichander, Arivu",
+          "singers": "Arivu, Anirudh Ravichander, Rambabu Gosala",
           "album": "Coolie (Original Motion Picture Soundtrack)",
           "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/a32e07484a3441499e6dcf6636cad355.cnvs.mp4"
         },
         "hindi": {
           "title": "Powerhouse",
           "id": "kB34yCDw",
+          "alt_ids": [
+            "Tb0jH7zI"
+          ],
           "duration_sec": 206,
           "singers": "Arivu, Anirudh Ravichander, Kumaar",
           "album": "Coolie The Powerhouse (Original Motion Picture Soundtrack)",
           "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/a32e07484a3441499e6dcf6636cad355.cnvs.mp4"
         }
       }
+    },
+    {
+      "slug": "monica",
+      "canonical_title": "Monica",
+      "approx_duration_sec": 188,
+      "contributed_by": "iamprajwal.in",
+      "versions": {
+        "telugu": {
+          "title": "Monica",
+          "id": "tr4vCIzU",
+          "alt_ids": [
+            "kGxUbCJB"
+          ],
+          "duration_sec": 188,
+          "singers": "Anirudh Ravichander, Sublahshini, Asal Kolaar, Krishna Kanth, Danny Smoke",
+          "album": "Coolie (Original Motion Picture Soundtrack)",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/dff8a124e6e646c5a39ef4708a480e3f.cnvs.mp4"
+        },
+        "kannada": {
+          "title": "Monica",
+          "id": "NVF8USBM",
+          "duration_sec": 191,
+          "singers": "Sublahshini, Anirudh Ravichander, Kumaar",
+          "album": "Coolie (Original Motion Picture Soundtrack)",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/dff8a124e6e646c5a39ef4708a480e3f.cnvs.mp4"
+        },
+        "malayalam": {
+          "title": "Monica",
+          "id": "jbxAF7z-",
+          "duration_sec": 191,
+          "singers": "Anirudh Ravichander, Sublahshini, Asal Kolaar, Deepak Ram",
+          "album": "Coolie (Original Motion Picture Soundtrack)",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/dff8a124e6e646c5a39ef4708a480e3f.cnvs.mp4"
+        },
+        "tamil": {
+          "title": "Monica",
+          "id": "MYrooqI2",
+          "alt_ids": [
+            "UqBtaUhw"
+          ],
+          "duration_sec": 217,
+          "singers": "Anirudh Ravichander, Sublahshini, Asal Kolaar, Vishnu Edavan",
+          "album": "Coolie (Original Motion Picture Soundtrack)",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/dff8a124e6e646c5a39ef4708a480e3f.cnvs.mp4"
+        },
+        "hindi": {
+          "title": "Monica",
+          "id": "V_HOKQfq",
+          "alt_ids": [
+            "TZ6KdwmQ"
+          ],
+          "duration_sec": 188,
+          "singers": "Anirudh Ravichander, Sublahshini, Asal Kolaar, Kumaar",
+          "album": "Coolie The Powerhouse (Original Motion Picture Soundtrack)",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/dff8a124e6e646c5a39ef4708a480e3f.cnvs.mp4"
+        }
+      }
     }
-  ]
+  ],
+  "updated_at": "2026-09-07T01:30:00.000Z"
 }
