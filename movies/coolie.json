@@ -17,15 +17,15 @@
       "contributed_by": "iamprajwal.in",
       "versions": {
         "tamil": {
-          "title": "Powerhouse",
-          "id": "oALPDLfF",
-          "alt_ids": [
-            "OjIzI3Gd"
-          ],
+          "title": "Powerhouse (From \"Coolie\") (Tamil)",
+          "id": "OjIzI3Gd",
           "duration_sec": 206,
-          "singers": "Jumpin' Jimes",
-          "album": "Coolie (Original Motion Picture Soundtrack)",
-          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/a32e07484a3441499e6dcf6636cad355.cnvs.mp4"
+          "singers": "Anirudh Ravichander, Arivu",
+          "album": "Powerhouse (From \"Coolie\") (Tamil)",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/a32e07484a3441499e6dcf6636cad355.cnvs.mp4",
+          "alt_ids": [
+            "oALPDLfF"
+          ]
         },
         "kannada": {
           "title": "Powerhouse",
@@ -44,26 +44,26 @@
           "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/a32e07484a3441499e6dcf6636cad355.cnvs.mp4"
         },
         "telugu": {
-          "title": "Powerhouse",
-          "id": "BH0utDZV",
-          "alt_ids": [
-            "2lEjF4gm"
-          ],
+          "title": "Powerhouse (From \"Coolie\") (Telugu)",
+          "id": "2lEjF4gm",
           "duration_sec": 206,
           "singers": "Arivu, Anirudh Ravichander, Rambabu Gosala",
-          "album": "Coolie (Original Motion Picture Soundtrack)",
-          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/a32e07484a3441499e6dcf6636cad355.cnvs.mp4"
+          "album": "Powerhouse (From \"Coolie\") (Telugu)",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/a32e07484a3441499e6dcf6636cad355.cnvs.mp4",
+          "alt_ids": [
+            "BH0utDZV"
+          ]
         },
         "hindi": {
-          "title": "Powerhouse",
-          "id": "kB34yCDw",
-          "alt_ids": [
-            "Tb0jH7zI"
-          ],
+          "title": "Powerhouse (From \"Coolie The Powerhouse\") (Hindi)",
+          "id": "Tb0jH7zI",
           "duration_sec": 206,
-          "singers": "Arivu, Anirudh Ravichander, Kumaar",
-          "album": "Coolie The Powerhouse (Original Motion Picture Soundtrack)",
-          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/a32e07484a3441499e6dcf6636cad355.cnvs.mp4"
+          "singers": "Arivu, Kumaar, Anirudh Ravichander",
+          "album": "Powerhouse (From \"Coolie The Powerhouse\") (Hindi)",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/a32e07484a3441499e6dcf6636cad355.cnvs.mp4",
+          "alt_ids": [
+            "kB34yCDw"
+          ]
         }
       }
     },
@@ -125,5 +125,5 @@
       }
     }
   ],
-  "updated_at": "2026-09-07T01:30:00.000Z"
+  "updated_at": "2026-09-06T20:20:28.332Z"
 }
