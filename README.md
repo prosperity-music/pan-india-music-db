@@ -51,21 +51,26 @@ pan-india-music-db/
 
 The Prosperity Music app computes file names deterministically from movie/album titles using the following normalization algorithm (`toMovieSlug`):
 
-1. **Remove HTML entities**: `&quot;` -> `"`, `&amp;` -> `&`, `&#039;` -> `'`
-2. **Strip Language Qualifiers**: e.g., `(Telugu)`, `(Tamil)`, `[Hindi]`, `(Original Soundtrack)`, `[Malayalam]`
-3. **Strip Music Album Buzzwords**: `Original Motion Picture Soundtrack`, `OST`, `Single`, `Album`, `Audio`, `Video`, `BGM`, `Full Song`
-4. **Normalize Dots in Acronyms**: `R.R.R.` -> `RRR`, `K.G.F.` -> `KGF`
-5. **Normalize Parts & Chapters**: `Part 1` -> `part_1`, `Chapter 2` -> `chapter_2`
-6. **Replace Special Characters with Underscore**: Convert non-alphanumeric characters to `_`, convert multiple `___` to single `_`, and trim leading/trailing underscores.
-7. **Lowercased string**: All slugs are 100% lowercase.
+1. **Extract Parent Movie from Singles**: If a title or album contains `(From "Movie Name")` or `From "..."`, the app automatically extracts the parent movie name so that early singles released months before the movie album always save directly into the movie's JSON (e.g. `Monica (From "Coolie")` -> `coolie.json`).
+2. **Remove HTML entities**: `&quot;` -> `"`, `&amp;` -> `&`, `&#039;` -> `'`
+3. **Strip Language Qualifiers**: e.g., `(Telugu)`, `(Tamil)`, `[Hindi]`, `(Original Soundtrack)`, `[Malayalam]`
+4. **Strip Music Album Buzzwords**: `Original Motion Picture Soundtrack`, `OST`, `Single`, `Album`, `Audio`, `Video`, `BGM`, `Full Song`
+5. **Normalize Dots in Acronyms**: `R.R.R.` -> `RRR`, `K.G.F.` -> `KGF`
+6. **Normalize Parts & Chapters**: `Part 1` -> `part_1`, `Chapter 2` -> `chapter_2`
+7. **Replace Special Characters with Underscore**: Convert non-alphanumeric characters to `_`, convert multiple `___` to single `_`, and trim leading/trailing underscores.
+8. **Lowercased string**: All slugs are 100% lowercase.
 
 ### 📌 Slugging Conversion Reference Table
 
 | Raw Album / Movie Title in JioSaavn | Generated Slug (`{movie_slug}.json`) |
 | :--- | :--- |
+| `Monica (From "Coolie") (Telugu)` | `coolie.json` |
+| `Powerhouse (From 'Coolie')` | `coolie.json` |
 | `Coolie (Tamil)` | `coolie.json` |
 | `Coolie (Original Motion Picture Soundtrack)` | `coolie.json` |
 | `Pushpa 2 The Rule (Hindi)` | `pushpa_2.json` |
+| `Pushpa Pushpa (From "Pushpa 2")` | `pushpa_2.json` |
+| `Ta Takkara (From "Kalki 2898 AD")` | `kalki_2898_ad.json` |
 | `R.R.R.` / `RRR (Telugu)` | `rrr.json` |
 | `K.G.F: Chapter 2` | `kgf_chapter_2.json` |
 | `Baahubali 2 - The Conclusion` | `baahubali_2_the_conclusion.json` |
