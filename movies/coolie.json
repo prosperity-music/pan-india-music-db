@@ -33,40 +33,74 @@
           "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/a32e07484a3441499e6dcf6636cad355.cnvs.mp4"
         },
         "tamil": {
-          "title": "Powerhouse (From \"Coolie\") (Tamil)",
-          "id": "OjIzI3Gd",
+          "title": "Powerhouse",
+          "id": "oALPDLfF",
           "duration_sec": 206,
           "singers": "Anirudh Ravichander, Arivu",
-          "album": "Powerhouse (From \"Coolie\") (Tamil)",
-          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/a32e07484a3441499e6dcf6636cad355.cnvs.mp4",
-          "alt_ids": [
-            "oALPDLfF"
-          ]
+          "album": "Coolie (Original Motion Picture Soundtrack)",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/a32e07484a3441499e6dcf6636cad355.cnvs.mp4"
         },
         "telugu": {
-          "title": "Powerhouse (From \"Coolie\") (Telugu)",
-          "id": "2lEjF4gm",
+          "title": "Powerhouse",
+          "id": "BH0utDZV",
           "duration_sec": 206,
           "singers": "Arivu, Anirudh Ravichander, Rambabu Gosala",
-          "album": "Powerhouse (From \"Coolie\") (Telugu)",
-          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/a32e07484a3441499e6dcf6636cad355.cnvs.mp4",
-          "alt_ids": [
-            "BH0utDZV"
-          ]
+          "album": "Coolie (Original Motion Picture Soundtrack)",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/a32e07484a3441499e6dcf6636cad355.cnvs.mp4"
         },
         "hindi": {
-          "title": "Powerhouse (From \"Coolie The Powerhouse\") (Hindi)",
-          "id": "Tb0jH7zI",
+          "title": "Powerhouse",
+          "id": "kB34yCDw",
           "duration_sec": 206,
-          "singers": "Arivu, Kumaar, Anirudh Ravichander",
-          "album": "Powerhouse (From \"Coolie The Powerhouse\") (Hindi)",
-          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/a32e07484a3441499e6dcf6636cad355.cnvs.mp4",
-          "alt_ids": [
-            "kB34yCDw"
-          ]
+          "singers": "Arivu, Anirudh Ravichander, Kumaar",
+          "album": "Coolie The Powerhouse (Original Motion Picture Soundtrack)",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/a32e07484a3441499e6dcf6636cad355.cnvs.mp4"
+        }
+      }
+    },
+    {
+      "slug": "monica",
+      "canonical_title": "Monica",
+      "approx_duration_sec": 188,
+      "contributed_by": "iamprajwal.in",
+      "versions": {
+        "telugu": {
+          "title": "Monica",
+          "id": "tr4vCIzU",
+          "duration_sec": 188,
+          "singers": "Anirudh Ravichander, Sublahshini, Asal Kolaar, Krishna Kanth, Danny Smoke",
+          "album": "Coolie (Original Motion Picture Soundtrack)"
+        },
+        "kannada": {
+          "title": "Monica",
+          "id": "NVF8USBM",
+          "duration_sec": 191,
+          "singers": "Sublahshini, Anirudh Ravichander, Kumaar",
+          "album": "Coolie (Original Motion Picture Soundtrack)"
+        },
+        "malayalam": {
+          "title": "Monica",
+          "id": "jbxAF7z-",
+          "duration_sec": 191,
+          "singers": "Anirudh Ravichander, Sublahshini, Asal Kolaar, Deepak Ram",
+          "album": "Coolie (Original Motion Picture Soundtrack)"
+        },
+        "tamil": {
+          "title": "Monica",
+          "id": "MYrooqI2",
+          "duration_sec": 217,
+          "singers": "Anirudh Ravichander, Sublahshini, Asal Kolaar, Vishnu Edavan",
+          "album": "Coolie (Original Motion Picture Soundtrack)"
+        },
+        "hindi": {
+          "title": "Monica",
+          "id": "V_HOKQfq",
+          "duration_sec": 188,
+          "singers": "Anirudh Ravichander, Sublahshini, Asal Kolaar, Kumaar",
+          "album": "Coolie The Powerhouse (Original Motion Picture Soundtrack)"
         }
       }
     }
   ],
-  "updated_at": "2026-09-06T21:30:51.880Z"
+  "updated_at": "2026-09-06T21:33:35.843Z"
 }
