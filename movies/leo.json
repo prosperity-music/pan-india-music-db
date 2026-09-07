@@ -1,0 +1,62 @@
+{
+  "movie": "Leo",
+  "movie_slug": "leo",
+  "year": 2026,
+  "languages": [
+    "hindi",
+    "tamil",
+    "malayalam",
+    "kannada",
+    "telugu"
+  ],
+  "songs": [
+    {
+      "slug": "lokiverse_2_0",
+      "canonical_title": "Lokiverse 2.0",
+      "approx_duration_sec": 114,
+      "contributed_by": "iamprajwal.in",
+      "versions": {
+        "hindi": {
+          "title": "Lokiverse 2.0",
+          "id": "miHdeSEg",
+          "duration_sec": 114,
+          "singers": "Anirudh Ravichander",
+          "album": "Leo (Hindi)",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/5bSw7fRotCnRCcO9br14W5/video/2c776fa3612546c2a4ddb779c3dd2245.cnvs.mp4"
+        },
+        "tamil": {
+          "title": "Lokiverse 2.0",
+          "id": "U9fFGPDn",
+          "duration_sec": 114,
+          "singers": "Anirudh Ravichander",
+          "album": "Leo",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/5bSw7fRotCnRCcO9br14W5/video/2c776fa3612546c2a4ddb779c3dd2245.cnvs.mp4"
+        },
+        "malayalam": {
+          "title": "Lokiverse 2.0",
+          "id": "esW2973B",
+          "duration_sec": 114,
+          "singers": "Anirudh Ravichander",
+          "album": "Leo (Malayalam)",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/5bSw7fRotCnRCcO9br14W5/video/2c776fa3612546c2a4ddb779c3dd2245.cnvs.mp4"
+        },
+        "kannada": {
+          "title": "Lokiverse 2.0",
+          "id": "qCUYh-dX",
+          "duration_sec": 114,
+          "singers": "Anirudh Ravichander",
+          "album": "Leo (Kannada)",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/5bSw7fRotCnRCcO9br14W5/video/2c776fa3612546c2a4ddb779c3dd2245.cnvs.mp4"
+        },
+        "telugu": {
+          "title": "Lokiverse 2.0",
+          "id": "xAr8IETR",
+          "duration_sec": 114,
+          "singers": "Anirudh Ravichander",
+          "album": "Leo (Telugu)",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/5bSw7fRotCnRCcO9br14W5/video/2c776fa3612546c2a4ddb779c3dd2245.cnvs.mp4"
+        }
+      }
+    }
+  ]
+}
