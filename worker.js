@@ -100,14 +100,25 @@ export default {
             ? content.songs
             : Object.values(content.songs);
 
+          const toCleanKey = (str) => {
+            if (!str) return '';
+            return str
+              .toLowerCase()
+              .replace(/[\(\[\{]?(?:from|film|movie)\s+["'‘“]?[^"'’”\)\]\}]+["'’”]?[\)\]\}]?/gi, ' ')
+              .replace(/[\(\[\{]\s*(?:telugu|tamil|hindi|kannada|malayalam|punjabi|bengali|marathi|bhojpuri|gujarati|english|odia)\b[^\)\]\}]*[\)\]\}]/gi, ' ')
+              .replace(/[^a-z0-9]+/g, '_')
+              .replace(/_+/g, '_')
+              .replace(/^_+|_+$/g, '');
+          };
+
           const songMap = new Map();
           for (const s of existingList) {
-            const key = (s.slug || s.canonical_title || '').toLowerCase();
+            const key = toCleanKey(s.canonical_title || s.slug || '');
             if (key) songMap.set(key, s);
           }
 
           for (const s of incomingList) {
-            const key = (s.slug || s.canonical_title || '').toLowerCase();
+            const key = toCleanKey(s.canonical_title || s.slug || '');
             if (!key) continue;
             if (!songMap.has(key)) {
               songMap.set(key, s);
@@ -128,22 +139,29 @@ export default {
                   if (existingId && existingId !== incomingId) {
                     altIds.add(existingId);
                   }
-                  altIds.delete(incomingId);
+                  if (incomingId) {
+                    altIds.delete(incomingId);
+                  }
+                  const altArray = Array.from(altIds).filter(Boolean);
                   mergedVers[lang] = {
                     ...ev,
                     ...vData,
-                    if_canvas: vData.canvas_url || ev.canvas_url,
-                    alt_ids: Array.from(altIds),
                   };
-                  if (mergedVers[lang].if_canvas) {
-                    mergedVers[lang].canvas_url = mergedVers[lang].if_canvas;
-                    delete mergedVers[lang].if_canvas;
+                  if (altArray.length > 0) {
+                    mergedVers[lang].alt_ids = altArray;
+                  } else {
+                    delete mergedVers[lang].alt_ids;
+                  }
+                  if (vData.canvas_url || ev.canvas_url) {
+                    mergedVers[lang].canvas_url = vData.canvas_url || ev.canvas_url;
                   }
                 }
               }
               songMap.set(key, {
                 ...existingSong,
                 ...s,
+                slug: key,
+                canonical_title: existingSong.canonical_title || s.canonical_title || key,
                 versions: mergedVers,
               });
             }
