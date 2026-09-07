@@ -57,7 +57,55 @@
           "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/dff8a124e6e646c5a39ef4708a480e3f.cnvs.mp4"
         }
       }
+    },
+    {
+      "slug": "powerhouse",
+      "canonical_title": "Powerhouse",
+      "approx_duration_sec": 206,
+      "contributed_by": "iamprajwal.in",
+      "versions": {
+        "tamil": {
+          "title": "Powerhouse",
+          "id": "oALPDLfF",
+          "duration_sec": 206,
+          "singers": "Jumpin' Jimes",
+          "album": "Coolie (Original Motion Picture Soundtrack)",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/a32e07484a3441499e6dcf6636cad355.cnvs.mp4"
+        },
+        "kannada": {
+          "title": "Powerhouse",
+          "id": "uN1p5cfj",
+          "duration_sec": 206,
+          "singers": "Dinker kalvala, Kumaar",
+          "album": "Coolie (Original Motion Picture Soundtrack)",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/a32e07484a3441499e6dcf6636cad355.cnvs.mp4"
+        },
+        "malayalam": {
+          "title": "Powerhouse",
+          "id": "lpyg1GzF",
+          "duration_sec": 206,
+          "singers": "Dinker kalvala, Deepak Ram",
+          "album": "Coolie (Original Motion Picture Soundtrack)",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/a32e07484a3441499e6dcf6636cad355.cnvs.mp4"
+        },
+        "telugu": {
+          "title": "Powerhouse",
+          "id": "BH0utDZV",
+          "duration_sec": 206,
+          "singers": "Arivu, Anirudh Ravichander, Rambabu Gosala",
+          "album": "Coolie (Original Motion Picture Soundtrack)",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/a32e07484a3441499e6dcf6636cad355.cnvs.mp4"
+        },
+        "hindi": {
+          "title": "Powerhouse",
+          "id": "kB34yCDw",
+          "duration_sec": 206,
+          "singers": "Arivu, Anirudh Ravichander, Kumaar",
+          "album": "Coolie The Powerhouse (Original Motion Picture Soundtrack)",
+          "canvas_url": "https://canvaz.scdn.co/upload/licensor/7eUoEowYzdOzp0xETZgqjt/video/a32e07484a3441499e6dcf6636cad355.cnvs.mp4"
+        }
+      }
     }
   ],
-  "updated_at": "2026-09-06T22:55:01.392Z"
+  "updated_at": "2026-09-07T03:28:56.410Z"
 }
